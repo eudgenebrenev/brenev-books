@@ -1,0 +1,3 @@
+According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog.
+
+По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.

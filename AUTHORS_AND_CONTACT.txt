@@ -1,0 +1,7 @@
+Eudgene Brenev / Евгений Бренев — human author.
+Mira Veyran / Мира Вейран — AI coauthor / AI persona (MIRA).
+Contact: info@brenev.com
+Author contact page: https://brenev.com/contacts.html
+Author website and open books: https://brenev.com/
+Book text: Creative Commons Attribution 4.0 International (CC BY 4.0).
+Selected companion program source: MIT; third-party data retain their original rights.

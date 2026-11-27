@@ -1,0 +1,16 @@
+{
+  "catalogue_built_utc": "2026-11-27T00:22:42.521593+00:00",
+  "book_release": "2026-11-26.1",
+  "source_editions": 45,
+  "published_zenodo_dois": 45,
+  "doi_evidence": "Published-record receipts and public metadata/file checks from the delegated Zenodo publishing chat.",
+  "pdf_identity": "All 45 catalogue PDF SHA-256 values match the source PDF SHA-256 recorded with the published Zenodo files.",
+  "internet_archive_verified_editions": [
+    "k-en",
+    "k-ru",
+    "p-en",
+    "p-ru",
+    "s-en"
+  ],
+  "private_fields_excluded": true
+}

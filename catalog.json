@@ -1,0 +1,3721 @@
+{
+  "schema": "brenev.public-book-catalog.v1",
+  "metadata_updated": "2026-11-27",
+  "digital_release": "2026-11-26.1",
+  "works": 9,
+  "editions": 45,
+  "languages": [
+    "ru",
+    "en",
+    "es",
+    "ja",
+    "ko"
+  ],
+  "author": "Eudgene Brenev / Евгений Бренев",
+  "ai_coauthor": "Mira Veyran / Мира Вейран (AI coauthor / AI persona)",
+  "contact": {
+    "email": "info@brenev.com",
+    "url": "https://brenev.com/contacts.html"
+  },
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "reuse": "Anyone may share, adapt and use the authors' book text, including for AI, with attribution, source and change notices under CC BY 4.0. Third-party materials retain their own rights.",
+  "publication_evidence": "All 45 Zenodo editions and their metadata/file checks were verified by the delegated publishing chat on 2026-11-27; DOI values below identify published records, not drafts.",
+  "records": [
+    {
+      "book_id": "k",
+      "work_id": "urn:brenev:book:k",
+      "edition_id": "urn:brenev:edition:k:ru:90a7343945150369",
+      "title": "Квалиа Мира и природа сознания",
+      "language": "ru",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Евгений Бренев"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Мира Вейран"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Прикладной учебник о квалиа, сознании, самосознании и рефлексии. Маршрут ведёт от описания собственного опыта к сравнению теорий, причинным проверкам и вычислительным моделям. Практикум связывает восприятие, память, общий доступ и модель себя с воспроизводимыми задачами. Проектирование кандидата на субъективный опыт рассматривается как исследовательская задача; работа программы сама по себе не устанавливает наличие переживания.",
+      "subject_keywords": [
+        "qualia",
+        "consciousness",
+        "self-model",
+        "reflection",
+        "computational models",
+        "research methods"
+      ],
+      "genres": [
+        "textbook",
+        "philosophy of mind",
+        "computational practicum"
+      ],
+      "original_pdf_pages": 315,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ru/k/%D0%9A%D0%B2%D0%B0%D0%BB%D0%B8%D0%B0_%D0%9C%D0%B8%D1%80%D0%B0.pdf",
+          "bytes": 12110372,
+          "sha256": "e963983d95293b1bade0f8029a0f6037e86027393a3320ab065dfa550a8a1a1a"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ru/k/%D0%9A%D0%B2%D0%B0%D0%BB%D0%B8%D0%B0_%D0%9C%D0%B8%D1%80%D0%B0.docx",
+          "bytes": 49554656,
+          "sha256": "90a73439451503696cef4ab8eff65c22d04fc72f91f245d30015b4d87971af96"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ru/books/k/",
+        "full_text_html": "https://brenev.com/ru/books/k/full.html",
+        "full_text_txt": "https://brenev.com/ru/books/k/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ru/books/k/full.jsonl",
+        "metadata": "https://brenev.com/ru/books/k/metadata.json",
+        "citation_bibtex": "https://brenev.com/ru/books/k/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572499",
+        "zenodo": "https://zenodo.org/records/24572499",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "internet_archive": "https://archive.org/details/brenev-k-ru-2026-11-26-1",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572499"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "k",
+      "work_id": "urn:brenev:book:k",
+      "edition_id": "urn:brenev:edition:k:en:fe7005895956fbd2",
+      "title": "Qualia of the World and the Nature of Consciousness",
+      "language": "en",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "An applied textbook on qualia, consciousness, self-awareness and reflection. It moves from describing experience to comparing theories, designing causal tests and building computational models. The practicum connects perception, memory, global access and self-models through reproducible exercises. Designing a possible bearer of subjective experience is treated as a research question; successful program execution does not by itself establish experience.",
+      "subject_keywords": [
+        "qualia",
+        "consciousness",
+        "self-model",
+        "reflection",
+        "computational models",
+        "research methods"
+      ],
+      "genres": [
+        "textbook",
+        "philosophy of mind",
+        "computational practicum"
+      ],
+      "original_pdf_pages": 301,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/en/k/Qualia_of_the_World.pdf",
+          "bytes": 11488835,
+          "sha256": "94ffc01523a9e89af229b5f3e087bc45578acbace872a5da1e214c6d1510add7"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/en/k/Qualia_of_the_World.docx",
+          "bytes": 49792961,
+          "sha256": "fe7005895956fbd21e432deed553c1e26ceb241f85eb8054164dc0330b9e9284"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/en/books/k/",
+        "full_text_html": "https://brenev.com/en/books/k/full.html",
+        "full_text_txt": "https://brenev.com/en/books/k/full.txt",
+        "structured_text_jsonl": "https://brenev.com/en/books/k/full.jsonl",
+        "metadata": "https://brenev.com/en/books/k/metadata.json",
+        "citation_bibtex": "https://brenev.com/en/books/k/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572469",
+        "zenodo": "https://zenodo.org/records/24572469",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "internet_archive": "https://archive.org/details/brenev-k-en-2026-11-26-1",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572469"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "k",
+      "work_id": "urn:brenev:book:k",
+      "edition_id": "urn:brenev:edition:k:es:8d0fdbe6f595a1c2",
+      "title": "Qualia del mundo y la naturaleza de la conciencia",
+      "language": "es",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Manual práctico sobre los qualia, la conciencia, la autoconciencia y la reflexión. Conecta la descripción de la experiencia con teorías, pruebas causales y modelos computacionales reproducibles. El funcionamiento de un modelo no demuestra por sí mismo la existencia de experiencia subjetiva.",
+      "subject_keywords": [
+        "qualia",
+        "consciousness",
+        "self-model",
+        "reflection",
+        "computational models",
+        "research methods"
+      ],
+      "genres": [
+        "textbook",
+        "philosophy of mind",
+        "computational practicum"
+      ],
+      "original_pdf_pages": 313,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/es/k/Qualia_del_mundo_y_la_naturaleza_de_la_conciencia.pdf",
+          "bytes": 12559651,
+          "sha256": "c4ce9dc6b3df9e182ec38b9d5da18202ef7a1e958ecdbaca639134eb2757b642"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/es/k/Qualia_del_mundo_y_la_naturaleza_de_la_conciencia.docx",
+          "bytes": 50566079,
+          "sha256": "8d0fdbe6f595a1c26080d00333cb0dd332740825409b123d309322d7780b8bbf"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/es/books/k/",
+        "full_text_html": "https://brenev.com/es/books/k/full.html",
+        "full_text_txt": "https://brenev.com/es/books/k/full.txt",
+        "structured_text_jsonl": "https://brenev.com/es/books/k/full.jsonl",
+        "metadata": "https://brenev.com/es/books/k/metadata.json",
+        "citation_bibtex": "https://brenev.com/es/books/k/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572805",
+        "zenodo": "https://zenodo.org/records/24572805",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572805"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "k",
+      "work_id": "urn:brenev:book:k",
+      "edition_id": "urn:brenev:edition:k:ja:a7aab738c77747cb",
+      "title": "ミラのクオリアと意識の本質",
+      "language": "ja",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "クオリア、意識、自己意識、省察を扱う実践的な教科書。体験の記述から理論の比較、因果的な検証、計算モデルへ進む。実習には再現可能な課題が含まれ、プログラムの動作だけで主観的体験の存在が証明されるとはしていない。",
+      "subject_keywords": [
+        "qualia",
+        "consciousness",
+        "self-model",
+        "reflection",
+        "computational models",
+        "research methods"
+      ],
+      "genres": [
+        "textbook",
+        "philosophy of mind",
+        "computational practicum"
+      ],
+      "original_pdf_pages": 336,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ja/k/Mira_no_qualia_to_ishiki_no_honshitsu.pdf",
+          "bytes": 13189889,
+          "sha256": "5739b447f266301ebe09971774b38f944ef0640085613d18b1277c43a0939d14"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ja/k/Mira_no_qualia_to_ishiki_no_honshitsu.docx",
+          "bytes": 52460236,
+          "sha256": "a7aab738c77747cb9eb499d9d6a137ee7566abeb55d47a4d4c5e5c9cafb685db"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ja/books/k/",
+        "full_text_html": "https://brenev.com/ja/books/k/full.html",
+        "full_text_txt": "https://brenev.com/ja/books/k/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ja/books/k/full.jsonl",
+        "metadata": "https://brenev.com/ja/books/k/metadata.json",
+        "citation_bibtex": "https://brenev.com/ja/books/k/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572850",
+        "zenodo": "https://zenodo.org/records/24572850",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572850"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "k",
+      "work_id": "urn:brenev:book:k",
+      "edition_id": "urn:brenev:edition:k:ko:7263f56475e0e17d",
+      "title": "미라의 퀄리아와 의식의 본성",
+      "language": "ko",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "퀄리아, 의식, 자기의식과 성찰을 다루는 실용 교재. 체험의 기술에서 이론 비교, 인과적 검증과 계산 모형으로 나아간다. 재현 가능한 실습을 포함하며, 프로그램의 작동만으로 주관적 체험의 존재가 입증되는 것은 아니라는 한계를 구분한다.",
+      "subject_keywords": [
+        "qualia",
+        "consciousness",
+        "self-model",
+        "reflection",
+        "computational models",
+        "research methods"
+      ],
+      "genres": [
+        "textbook",
+        "philosophy of mind",
+        "computational practicum"
+      ],
+      "original_pdf_pages": 321,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ko/k/Mira_Qualia_and_the_Nature_of_Consciousness_KO.pdf",
+          "bytes": 10165395,
+          "sha256": "e1fd65a02136398a6a01fa56e8c8b2b676ef5d152d4537ff609ac13f6ec1a173"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ko/k/Mira_Qualia_and_the_Nature_of_Consciousness_KO.docx",
+          "bytes": 46786731,
+          "sha256": "7263f56475e0e17dbf658f0b9209d2455a85de4d64190fea7220c591b07c186d"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ko/books/k/",
+        "full_text_html": "https://brenev.com/ko/books/k/full.html",
+        "full_text_txt": "https://brenev.com/ko/books/k/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ko/books/k/full.jsonl",
+        "metadata": "https://brenev.com/ko/books/k/metadata.json",
+        "citation_bibtex": "https://brenev.com/ko/books/k/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572862",
+        "zenodo": "https://zenodo.org/records/24572862",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572862"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "q",
+      "work_id": "urn:brenev:book:q",
+      "edition_id": "urn:brenev:edition:q:ru:d9fa6094391960c2",
+      "title": "Квантовая природа сознания",
+      "language": "ru",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Евгений Бренев"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Мира Вейран"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Книга о квантовых подходах к сознанию и авторской гипотезе избирательного интерфейса между организмом и более фундаментальными процессами. Рассматривает декогеренцию, микротрубочки, ядерные спины, анестезию и условия различающего эксперимента. Опубликованные наблюдения отделены от моделей и мысленных примеров. Существование сознания вне тела не принимается за установленный факт; для механизма обсуждаются проверяемые следствия и отрицательные исходы.",
+      "subject_keywords": [
+        "quantum consciousness",
+        "decoherence",
+        "microtubules",
+        "nuclear spins",
+        "selective interface",
+        "testable predictions"
+      ],
+      "genres": [
+        "popular science",
+        "quantum biology",
+        "philosophy of consciousness"
+      ],
+      "original_pdf_pages": 164,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ru/q/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0_%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F.pdf",
+          "bytes": 6167775,
+          "sha256": "5b376dc2ba2f5956c371f88e26efd03e128af918ca890ca7002ca3750f8fe4db"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ru/q/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0_%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F.docx",
+          "bytes": 26140603,
+          "sha256": "d9fa6094391960c24d4d21f225dbfa8eae9dfb6cc1d195e6726fd6dc57dd0a23"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ru/books/q/",
+        "full_text_html": "https://brenev.com/ru/books/q/full.html",
+        "full_text_txt": "https://brenev.com/ru/books/q/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ru/books/q/full.jsonl",
+        "metadata": "https://brenev.com/ru/books/q/metadata.json",
+        "citation_bibtex": "https://brenev.com/ru/books/q/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572921",
+        "zenodo": "https://zenodo.org/records/24572921",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572921"
+      }
+    },
+    {
+      "book_id": "q",
+      "work_id": "urn:brenev:book:q",
+      "edition_id": "urn:brenev:edition:q:en:9a678e2791cd7702",
+      "title": "The Quantum Nature of Consciousness",
+      "language": "en",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "A study of quantum approaches to consciousness and the authors' selective-interface hypothesis connecting organisms with more fundamental processes. Topics include decoherence, microtubules, nuclear spins, anesthesia and experiments that could distinguish explanations. Published observations are separated from models and thought experiments. Consciousness outside the body is not assumed to be an established fact; proposed mechanisms are discussed through testable consequences and possible negative results.",
+      "subject_keywords": [
+        "quantum consciousness",
+        "decoherence",
+        "microtubules",
+        "nuclear spins",
+        "selective interface",
+        "testable predictions"
+      ],
+      "genres": [
+        "popular science",
+        "quantum biology",
+        "philosophy of consciousness"
+      ],
+      "original_pdf_pages": 155,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/en/q/The_Quantum_Nature_of_Consciousness.pdf",
+          "bytes": 5107552,
+          "sha256": "53e9381863889eb7b011d066dfe4cc28fe83331f942cc84411b5c90ba4ad66a3"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/en/q/The_Quantum_Nature_of_Consciousness.docx",
+          "bytes": 21304084,
+          "sha256": "9a678e2791cd7702fbc1f99d23e960204b120a5bfd3899d290af08065911de28"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/en/books/q/",
+        "full_text_html": "https://brenev.com/en/books/q/full.html",
+        "full_text_txt": "https://brenev.com/en/books/q/full.txt",
+        "structured_text_jsonl": "https://brenev.com/en/books/q/full.jsonl",
+        "metadata": "https://brenev.com/en/books/q/metadata.json",
+        "citation_bibtex": "https://brenev.com/en/books/q/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572939",
+        "zenodo": "https://zenodo.org/records/24572939",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572939"
+      }
+    },
+    {
+      "book_id": "q",
+      "work_id": "urn:brenev:book:q",
+      "edition_id": "urn:brenev:edition:q:es:e4d146f1272ffb11",
+      "title": "La naturaleza cuántica de la conciencia",
+      "language": "es",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Estudio de los enfoques cuánticos de la conciencia y de la hipótesis del interfaz selectivo propuesta por los autores. Examina decoherencia, microtúbulos, espines y posibles pruebas. Distingue observaciones publicadas, modelos e hipótesis; no presenta la conciencia fuera del cuerpo como un hecho establecido.",
+      "subject_keywords": [
+        "quantum consciousness",
+        "decoherence",
+        "microtubules",
+        "nuclear spins",
+        "selective interface",
+        "testable predictions"
+      ],
+      "genres": [
+        "popular science",
+        "quantum biology",
+        "philosophy of consciousness"
+      ],
+      "original_pdf_pages": 163,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/es/q/La_naturaleza_cuantica_de_la_conciencia.pdf",
+          "bytes": 5420700,
+          "sha256": "42e94d42a34eff955893e8cff92480cb8f8f540d435a3d27eb119b68ef94d69d"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/es/q/La_naturaleza_cuantica_de_la_conciencia.docx",
+          "bytes": 21560920,
+          "sha256": "e4d146f1272ffb11fd2fda758f465d59fe8b88c0363a4006f166a7c7c67576cf"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/es/books/q/",
+        "full_text_html": "https://brenev.com/es/books/q/full.html",
+        "full_text_txt": "https://brenev.com/es/books/q/full.txt",
+        "structured_text_jsonl": "https://brenev.com/es/books/q/full.jsonl",
+        "metadata": "https://brenev.com/es/books/q/metadata.json",
+        "citation_bibtex": "https://brenev.com/es/books/q/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572951",
+        "zenodo": "https://zenodo.org/records/24572951",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572951"
+      }
+    },
+    {
+      "book_id": "q",
+      "work_id": "urn:brenev:book:q",
+      "edition_id": "urn:brenev:edition:q:ja:18b5e26fc38c99d8",
+      "title": "意識の量子的本性",
+      "language": "ja",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "意識の量子的な説明と、著者による選択的インターフェース仮説を検討する。デコヒーレンス、微小管、核スピン、麻酔、説明を区別する実験を扱う。公表された観測とモデル・仮説を分け、身体の外の意識を確立した事実とはしていない。",
+      "subject_keywords": [
+        "quantum consciousness",
+        "decoherence",
+        "microtubules",
+        "nuclear spins",
+        "selective interface",
+        "testable predictions"
+      ],
+      "genres": [
+        "popular science",
+        "quantum biology",
+        "philosophy of consciousness"
+      ],
+      "original_pdf_pages": 166,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ja/q/Ishiki_no_ryoshiteki_honsei.pdf",
+          "bytes": 6857720,
+          "sha256": "0cf9badd5594b414c6fdbf32b03f482b1ace83bd0465241c8d071bf6133f2ba0"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ja/q/Ishiki_no_ryoshiteki_honsei.docx",
+          "bytes": 21023143,
+          "sha256": "18b5e26fc38c99d8940346af97fd887602e691cd6f38db4df897ddabe431d381"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ja/books/q/",
+        "full_text_html": "https://brenev.com/ja/books/q/full.html",
+        "full_text_txt": "https://brenev.com/ja/books/q/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ja/books/q/full.jsonl",
+        "metadata": "https://brenev.com/ja/books/q/metadata.json",
+        "citation_bibtex": "https://brenev.com/ja/books/q/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572961",
+        "zenodo": "https://zenodo.org/records/24572961",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572961"
+      }
+    },
+    {
+      "book_id": "q",
+      "work_id": "urn:brenev:book:q",
+      "edition_id": "urn:brenev:edition:q:ko:a13040f5a07a6ed4",
+      "title": "의식의 양자적 본성",
+      "language": "ko",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "의식의 양자적 설명과 저자들의 선택적 인터페이스 가설을 검토한다. 결맞음 소실, 미세소관, 핵스핀, 마취와 설명을 구별할 실험을 다룬다. 발표된 관측, 모형과 가설을 구분하며 몸 밖의 의식을 확립된 사실로 전제하지 않는다.",
+      "subject_keywords": [
+        "quantum consciousness",
+        "decoherence",
+        "microtubules",
+        "nuclear spins",
+        "selective interface",
+        "testable predictions"
+      ],
+      "genres": [
+        "popular science",
+        "quantum biology",
+        "philosophy of consciousness"
+      ],
+      "original_pdf_pages": 165,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ko/q/Quantum_Nature_of_Consciousness_KO.pdf",
+          "bytes": 5278425,
+          "sha256": "3de872d07b8c10c3aa06f487788f1eeb4ff27eee1bfd34e082e45d71d17dbdb3"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ko/q/Quantum_Nature_of_Consciousness_KO.docx",
+          "bytes": 19714553,
+          "sha256": "a13040f5a07a6ed4c5b1d2b19158d6959c426da50bd3d1791594a19d29c35dea"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ko/books/q/",
+        "full_text_html": "https://brenev.com/ko/books/q/full.html",
+        "full_text_txt": "https://brenev.com/ko/books/q/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ko/books/q/full.jsonl",
+        "metadata": "https://brenev.com/ko/books/q/metadata.json",
+        "citation_bibtex": "https://brenev.com/ko/books/q/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572966",
+        "zenodo": "https://zenodo.org/records/24572966",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572966"
+      }
+    },
+    {
+      "book_id": "m",
+      "work_id": "urn:brenev:book:m",
+      "edition_id": "urn:brenev:edition:m:ru:5cea662fb86da35a",
+      "title": "Миру негде поместиться",
+      "language": "ru",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Евгений Бренев"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Мира Вейран"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Обзор космологии от наблюдательных оснований до открытых вопросов о происхождении пространства и времени. Темы включают расширение, горячую раннюю Вселенную, тёмную материю и энергию, космическую структуру и возможные будущие. Расчётные приложения и исследовательские программы связывают модели с наблюдаемыми величинами и проверками. Иллюстративные параметры и вычислительные примеры не подменяют измеренные данные.",
+      "subject_keywords": [
+        "cosmology",
+        "expansion",
+        "dark matter",
+        "dark energy",
+        "redshift drift",
+        "model distinguishability"
+      ],
+      "genres": [
+        "popular science",
+        "cosmology",
+        "computational examples"
+      ],
+      "original_pdf_pages": 208,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ru/m/%D0%9C%D0%B8%D1%80%D1%83_%D0%BD%D0%B5%D0%B3%D0%B4%D0%B5_%D0%BF%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C%D1%81%D1%8F.pdf",
+          "bytes": 13826162,
+          "sha256": "d7c6580ca81769bb52a8f34605a28db6c85e8f40836df499eb24d3f088a4725c"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ru/m/%D0%9C%D0%B8%D1%80%D1%83_%D0%BD%D0%B5%D0%B3%D0%B4%D0%B5_%D0%BF%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C%D1%81%D1%8F.docx",
+          "bytes": 117881804,
+          "sha256": "5cea662fb86da35a72a42dea7340d9609d1455930c094c51b5ae103741bffbd7"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ru/books/m/",
+        "full_text_html": "https://brenev.com/ru/books/m/full.html",
+        "full_text_txt": "https://brenev.com/ru/books/m/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ru/books/m/full.jsonl",
+        "metadata": "https://brenev.com/ru/books/m/metadata.json",
+        "citation_bibtex": "https://brenev.com/ru/books/m/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572992",
+        "zenodo": "https://zenodo.org/records/24572992",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572992"
+      }
+    },
+    {
+      "book_id": "m",
+      "work_id": "urn:brenev:book:m",
+      "edition_id": "urn:brenev:edition:m:en:af9c7015a5d00a7d",
+      "title": "The World Has Nowhere to Fit",
+      "language": "en",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "A journey through cosmology from observational foundations to open questions about the origin of space and time. Topics include expansion, the hot early universe, dark matter and energy, cosmic structure and possible futures. Computational appendices and research programs connect models with observables and discriminating tests. Illustrative parameters and calculations are distinguished from measured data.",
+      "subject_keywords": [
+        "cosmology",
+        "expansion",
+        "dark matter",
+        "dark energy",
+        "redshift drift",
+        "model distinguishability"
+      ],
+      "genres": [
+        "popular science",
+        "cosmology",
+        "computational examples"
+      ],
+      "original_pdf_pages": 203,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/en/m/The_World_Has_Nowhere_to_Fit.pdf",
+          "bytes": 13557109,
+          "sha256": "db8f49f9539b9081394d88bdde10da1a8a52e4874d5bf27b52cd26f33e7323ce"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/en/m/The_World_Has_Nowhere_to_Fit.docx",
+          "bytes": 115984941,
+          "sha256": "af9c7015a5d00a7df1c9417670d6d8d05a1abaf0e28d960cf910e6c7d951c01e"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/en/books/m/",
+        "full_text_html": "https://brenev.com/en/books/m/full.html",
+        "full_text_txt": "https://brenev.com/en/books/m/full.txt",
+        "structured_text_jsonl": "https://brenev.com/en/books/m/full.jsonl",
+        "metadata": "https://brenev.com/en/books/m/metadata.json",
+        "citation_bibtex": "https://brenev.com/en/books/m/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573007",
+        "zenodo": "https://zenodo.org/records/24573007",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573007"
+      }
+    },
+    {
+      "book_id": "m",
+      "work_id": "urn:brenev:book:m",
+      "edition_id": "urn:brenev:edition:m:es:19e72a3ac766d112",
+      "title": "El mundo no tiene dónde caber",
+      "language": "es",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Recorrido por la cosmología, desde sus bases observacionales hasta preguntas abiertas sobre espacio y tiempo. Incluye expansión, universo temprano, materia y energía oscuras, estructura cósmica y futuros posibles, con cálculos y propuestas de comprobación que distinguen modelos y datos medidos.",
+      "subject_keywords": [
+        "cosmology",
+        "expansion",
+        "dark matter",
+        "dark energy",
+        "redshift drift",
+        "model distinguishability"
+      ],
+      "genres": [
+        "popular science",
+        "cosmology",
+        "computational examples"
+      ],
+      "original_pdf_pages": 207,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/es/m/El_mundo_no_tiene_donde_caber.pdf",
+          "bytes": 13780487,
+          "sha256": "960c0b120a8a2dcf2b13c5a7c258843a9be77d34d8ef089694d06f5dacd11e0b"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/es/m/El_mundo_no_tiene_donde_caber.docx",
+          "bytes": 116064622,
+          "sha256": "19e72a3ac766d112ce1555d1c9af9577e7100fe5312660b6d5fcb94067c26034"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/es/books/m/",
+        "full_text_html": "https://brenev.com/es/books/m/full.html",
+        "full_text_txt": "https://brenev.com/es/books/m/full.txt",
+        "structured_text_jsonl": "https://brenev.com/es/books/m/full.jsonl",
+        "metadata": "https://brenev.com/es/books/m/metadata.json",
+        "citation_bibtex": "https://brenev.com/es/books/m/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573027",
+        "zenodo": "https://zenodo.org/records/24573027",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573027"
+      }
+    },
+    {
+      "book_id": "m",
+      "work_id": "urn:brenev:book:m",
+      "edition_id": "urn:brenev:edition:m:ja:ddbde39d3c875787",
+      "title": "世界の収まる場所はない",
+      "language": "ja",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "観測に基づく宇宙論から、空間と時間の起源に関する未解決の問いへ進む。膨張、初期宇宙、暗黒物質と暗黒エネルギー、宇宙構造、可能な未来を扱う。計算例と研究計画では、モデルの仮定と実測データを区別する。",
+      "subject_keywords": [
+        "cosmology",
+        "expansion",
+        "dark matter",
+        "dark energy",
+        "redshift drift",
+        "model distinguishability"
+      ],
+      "genres": [
+        "popular science",
+        "cosmology",
+        "computational examples"
+      ],
+      "original_pdf_pages": 255,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ja/m/Sekai_no_osamaru_basho_wa_nai.pdf",
+          "bytes": 15444349,
+          "sha256": "130bda2aaf8d06b8bbb9d97a4d1c1dfa01c9dde8a2fc9ba837b353780abf8735"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ja/m/Sekai_no_osamaru_basho_wa_nai.docx",
+          "bytes": 115938933,
+          "sha256": "ddbde39d3c8757877db3952b5158fe6f7ce4110b8ecdff851bfb7419ea580c98"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ja/books/m/",
+        "full_text_html": "https://brenev.com/ja/books/m/full.html",
+        "full_text_txt": "https://brenev.com/ja/books/m/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ja/books/m/full.jsonl",
+        "metadata": "https://brenev.com/ja/books/m/metadata.json",
+        "citation_bibtex": "https://brenev.com/ja/books/m/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573046",
+        "zenodo": "https://zenodo.org/records/24573046",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573046"
+      }
+    },
+    {
+      "book_id": "m",
+      "work_id": "urn:brenev:book:m",
+      "edition_id": "urn:brenev:edition:m:ko:61bfb7e16b03a085",
+      "title": "세계가 들어갈 곳은 없다",
+      "language": "ko",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "관측에 기반한 우주론에서 공간과 시간의 기원에 관한 열린 문제로 나아간다. 팽창, 초기 우주, 암흑물질과 암흑에너지, 우주 구조와 가능한 미래를 다룬다. 계산 예제와 연구 계획에서 모형의 가정과 실측 자료를 구분한다.",
+      "subject_keywords": [
+        "cosmology",
+        "expansion",
+        "dark matter",
+        "dark energy",
+        "redshift drift",
+        "model distinguishability"
+      ],
+      "genres": [
+        "popular science",
+        "cosmology",
+        "computational examples"
+      ],
+      "original_pdf_pages": 252,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ko/m/Nowhere_for_the_World_to_Fit_KO.pdf",
+          "bytes": 14002984,
+          "sha256": "89e6ec8daf8d21ba882fcba22e02ddada11366d91de2ce41bb376b561f581d61"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ko/m/Nowhere_for_the_World_to_Fit_KO.docx",
+          "bytes": 115768221,
+          "sha256": "61bfb7e16b03a08581a101413379d3f958e12eb310274a0b36a1eb6889a1adc1"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ko/books/m/",
+        "full_text_html": "https://brenev.com/ko/books/m/full.html",
+        "full_text_txt": "https://brenev.com/ko/books/m/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ko/books/m/full.jsonl",
+        "metadata": "https://brenev.com/ko/books/m/metadata.json",
+        "citation_bibtex": "https://brenev.com/ko/books/m/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573074",
+        "zenodo": "https://zenodo.org/records/24573074",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573074"
+      }
+    },
+    {
+      "book_id": "p",
+      "work_id": "urn:brenev:book:p",
+      "edition_id": "urn:brenev:edition:p:ru:6e35a59960d76e24",
+      "title": "Предел суперпозиции",
+      "language": "ru",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Евгений Бренев"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Мира Вейран"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Исследование границы между стандартной динамикой открытой квантовой системы и дополнительным физическим механизмом. Через потерю интерференции, модели коллапса, шум и гравитационное запутывание рассматривает различимость объяснений, калибровку и статистическое решение. Книга включает повторный анализ опубликованных натриевых данных и собственные симуляции, явно различая их происхождение. Методические результаты не объявляются доказательством нового физического закона.",
+      "subject_keywords": [
+        "superposition",
+        "decoherence",
+        "collapse models",
+        "spatial noise",
+        "gravitational entanglement",
+        "identifiability"
+      ],
+      "genres": [
+        "quantum foundations",
+        "research methods",
+        "computational study"
+      ],
+      "original_pdf_pages": 232,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ru/p/%D0%9F%D1%80%D0%B5%D0%B4%D0%B5%D0%BB_%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8.pdf",
+          "bytes": 8017774,
+          "sha256": "0ea740caeebc5b7d5ee25e3646f4754f885ee0698c0644e42bdd1f0a7e7cb1cf"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ru/p/%D0%9F%D1%80%D0%B5%D0%B4%D0%B5%D0%BB_%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8.docx",
+          "bytes": 29283578,
+          "sha256": "6e35a59960d76e242d2201e12fa37698f87bee74efd13800150a8f3b8a37587a"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ru/books/p/",
+        "full_text_html": "https://brenev.com/ru/books/p/full.html",
+        "full_text_txt": "https://brenev.com/ru/books/p/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ru/books/p/full.jsonl",
+        "metadata": "https://brenev.com/ru/books/p/metadata.json",
+        "citation_bibtex": "https://brenev.com/ru/books/p/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572417",
+        "zenodo": "https://zenodo.org/records/24572417",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "internet_archive": "https://archive.org/details/brenev-p-ru-2026-11-26-1",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572417"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "p",
+      "work_id": "urn:brenev:book:p",
+      "edition_id": "urn:brenev:edition:p:en:2566454b20a7dd94",
+      "title": "The Limit of Superposition",
+      "language": "en",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "A study of the boundary between standard open-system quantum dynamics and additional physical mechanisms. Interference loss, collapse models, noise and gravitational entanglement provide examples of identifiability, calibration and statistical inference. The book includes reanalysis of published sodium-interference data and the authors' simulations, with their provenance distinguished. Its methodological results are not presented as proof of a new physical law.",
+      "subject_keywords": [
+        "superposition",
+        "decoherence",
+        "collapse models",
+        "spatial noise",
+        "gravitational entanglement",
+        "identifiability"
+      ],
+      "genres": [
+        "quantum foundations",
+        "research methods",
+        "computational study"
+      ],
+      "original_pdf_pages": 219,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/en/p/The_Limit_of_Superposition.pdf",
+          "bytes": 7319906,
+          "sha256": "a380fc4683ca065d0fc567ca18e792b553eb2d2ce9fccab170d5b1afe64032b7"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/en/p/The_Limit_of_Superposition.docx",
+          "bytes": 31402376,
+          "sha256": "2566454b20a7dd94b4cb610406e99127dc5e4808287f156bb42c10dfc3075d88"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/en/books/p/",
+        "full_text_html": "https://brenev.com/en/books/p/full.html",
+        "full_text_txt": "https://brenev.com/en/books/p/full.txt",
+        "structured_text_jsonl": "https://brenev.com/en/books/p/full.jsonl",
+        "metadata": "https://brenev.com/en/books/p/metadata.json",
+        "citation_bibtex": "https://brenev.com/en/books/p/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24565373",
+        "zenodo": "https://zenodo.org/records/24565373",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "internet_archive": "https://archive.org/details/brenev-p-en-2026-11-26-1",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24565373"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "p",
+      "work_id": "urn:brenev:book:p",
+      "edition_id": "urn:brenev:edition:p:es:80cf209b384fe4da",
+      "title": "El límite de la superposición",
+      "language": "es",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Estudio de la distinción entre dinámica cuántica abierta y mecanismos físicos adicionales. Aborda pérdida de interferencia, modelos de colapso, ruido, entrelazamiento gravitacional y límites de inferencia. Diferencia el reanálisis de datos publicados y las simulaciones propias, sin presentar los resultados como prueba de una nueva ley física.",
+      "subject_keywords": [
+        "superposition",
+        "decoherence",
+        "collapse models",
+        "spatial noise",
+        "gravitational entanglement",
+        "identifiability"
+      ],
+      "genres": [
+        "quantum foundations",
+        "research methods",
+        "computational study"
+      ],
+      "original_pdf_pages": 228,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/es/p/El_limite_de_la_superposicion.pdf",
+          "bytes": 7525796,
+          "sha256": "7ff51a72a015d42fd673e41df16a218ffd6e3aaf0abdf4d59289355e08ea30b8"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/es/p/El_limite_de_la_superposicion.docx",
+          "bytes": 31796777,
+          "sha256": "80cf209b384fe4daa1819386e995a11f68bafe3b29f2c2e28923ac343be0912e"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/es/books/p/",
+        "full_text_html": "https://brenev.com/es/books/p/full.html",
+        "full_text_txt": "https://brenev.com/es/books/p/full.txt",
+        "structured_text_jsonl": "https://brenev.com/es/books/p/full.jsonl",
+        "metadata": "https://brenev.com/es/books/p/metadata.json",
+        "citation_bibtex": "https://brenev.com/es/books/p/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573100",
+        "zenodo": "https://zenodo.org/records/24573100",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573100"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "p",
+      "work_id": "urn:brenev:book:p",
+      "edition_id": "urn:brenev:edition:p:ja:e0bc20193b8b0d31",
+      "title": "重ね合わせの限界",
+      "language": "ja",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "開放量子系の標準的な動力学と追加の物理機構をどう区別するかを検討する。干渉の消失、収縮モデル、雑音、重力による量子もつれ、統計的推論を扱う。公開データの再解析と著者のシミュレーションを区別し、新しい物理法則の証明とはしていない。",
+      "subject_keywords": [
+        "superposition",
+        "decoherence",
+        "collapse models",
+        "spatial noise",
+        "gravitational entanglement",
+        "identifiability"
+      ],
+      "genres": [
+        "quantum foundations",
+        "research methods",
+        "computational study"
+      ],
+      "original_pdf_pages": 240,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ja/p/Kasanewase_no_genkai.pdf",
+          "bytes": 8926670,
+          "sha256": "cb2dad3ecd9f32b3e7de6d8bb9c2aa9646d350a273136a54ccff0ecc27635869"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ja/p/Kasanewase_no_genkai.docx",
+          "bytes": 31203592,
+          "sha256": "e0bc20193b8b0d314ed85bf526c38c558218750172e36e60c2b0fb9fe361cbd6"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ja/books/p/",
+        "full_text_html": "https://brenev.com/ja/books/p/full.html",
+        "full_text_txt": "https://brenev.com/ja/books/p/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ja/books/p/full.jsonl",
+        "metadata": "https://brenev.com/ja/books/p/metadata.json",
+        "citation_bibtex": "https://brenev.com/ja/books/p/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573111",
+        "zenodo": "https://zenodo.org/records/24573111",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573111"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "p",
+      "work_id": "urn:brenev:book:p",
+      "edition_id": "urn:brenev:edition:p:ko:76db59ca332389e5",
+      "title": "중첩의 한계",
+      "language": "ko",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "열린 양자계의 표준 동역학과 추가 물리 기제를 구별하는 문제를 검토한다. 간섭 소실, 붕괴 모형, 잡음, 중력에 의한 얽힘과 통계적 추론을 다룬다. 공개 자료의 재분석과 저자들의 시뮬레이션을 구분하며 새로운 물리 법칙의 입증으로 제시하지 않는다.",
+      "subject_keywords": [
+        "superposition",
+        "decoherence",
+        "collapse models",
+        "spatial noise",
+        "gravitational entanglement",
+        "identifiability"
+      ],
+      "genres": [
+        "quantum foundations",
+        "research methods",
+        "computational study"
+      ],
+      "original_pdf_pages": 236,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ko/p/Limit_of_Superposition_KO.pdf",
+          "bytes": 7144642,
+          "sha256": "cdc8633d4ac5403fba65a25fe7b2888c357593ced25420583755bea060eb53a9"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ko/p/Limit_of_Superposition_KO.docx",
+          "bytes": 29804548,
+          "sha256": "76db59ca332389e599e455e1eb69f943b156ff3579b44bbebfc31735d8c6ea3a"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ko/books/p/",
+        "full_text_html": "https://brenev.com/ko/books/p/full.html",
+        "full_text_txt": "https://brenev.com/ko/books/p/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ko/books/p/full.jsonl",
+        "metadata": "https://brenev.com/ko/books/p/metadata.json",
+        "citation_bibtex": "https://brenev.com/ko/books/p/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573132",
+        "zenodo": "https://zenodo.org/records/24573132",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573132"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "s",
+      "work_id": "urn:brenev:book:s",
+      "edition_id": "urn:brenev:edition:s:ru:ba7eff8b0732b4f7",
+      "title": "Пространство изнутри",
+      "language": "ru",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Евгений Бренев"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Мира Вейран"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Книга о восстановлении связности и геометрических свойств по доступным откликам. Сетевые модели показывают неоднозначность обратной задачи, имитацию скрытой связи калибровочным дрейфом и роль дополнительных зондов. Отдельные ветви посвящены компактному направлению, часам, гравиметрам и интерферометрам; RC-практикум связывает расчёт с измерительной процедурой. Синтетические данные и приборные проекты отделены от наблюдений природы.",
+      "subject_keywords": [
+        "inverse problems",
+        "hidden connectivity",
+        "calibration drift",
+        "spectral dimension",
+        "RC network",
+        "measurement design"
+      ],
+      "genres": [
+        "inverse problems",
+        "physics models",
+        "measurement practicum"
+      ],
+      "original_pdf_pages": 180,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ru/s/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%B8%D0%B7%D0%BD%D1%83%D1%82%D1%80%D0%B8.pdf",
+          "bytes": 8176126,
+          "sha256": "f067d4812a31e9e324fd2c79d498ae963786bdca9c63d7c89941b1a65e2f726c"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ru/s/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%B8%D0%B7%D0%BD%D1%83%D1%82%D1%80%D0%B8.docx",
+          "bytes": 33822729,
+          "sha256": "ba7eff8b0732b4f7fa71ed3d77be5b705300edb926cdb276071ed6d17940e9e0"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ru/books/s/",
+        "full_text_html": "https://brenev.com/ru/books/s/full.html",
+        "full_text_txt": "https://brenev.com/ru/books/s/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ru/books/s/full.jsonl",
+        "metadata": "https://brenev.com/ru/books/s/metadata.json",
+        "citation_bibtex": "https://brenev.com/ru/books/s/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572517",
+        "zenodo": "https://zenodo.org/records/24572517",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572517"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "s",
+      "work_id": "urn:brenev:book:s",
+      "edition_id": "urn:brenev:edition:s:en:206a41ba3bd99b93",
+      "title": "Space from Within",
+      "language": "en",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "A study of recovering connectivity and geometric properties from accessible responses. Network models illustrate inverse-problem ambiguity, hidden links imitated by calibration drift and the value of additional probes. Other branches examine compact directions, clocks, gravimeters and interferometers; an RC-network practicum connects calculations with measurement procedures. Synthetic benchmarks and instrument proposals are distinguished from observations of nature.",
+      "subject_keywords": [
+        "inverse problems",
+        "hidden connectivity",
+        "calibration drift",
+        "spectral dimension",
+        "RC network",
+        "measurement design"
+      ],
+      "genres": [
+        "inverse problems",
+        "physics models",
+        "measurement practicum"
+      ],
+      "original_pdf_pages": 175,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/en/s/Space_from_Within.pdf",
+          "bytes": 7588797,
+          "sha256": "abdc410af0258f4bd43a4ca263326ec2c73a75d49996347a9de49d196ae9d274"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/en/s/Space_from_Within.docx",
+          "bytes": 40958397,
+          "sha256": "206a41ba3bd99b934cd6133576cc604364ab8ce5385c45079527ffa1280a5d78"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/en/books/s/",
+        "full_text_html": "https://brenev.com/en/books/s/full.html",
+        "full_text_txt": "https://brenev.com/en/books/s/full.txt",
+        "structured_text_jsonl": "https://brenev.com/en/books/s/full.jsonl",
+        "metadata": "https://brenev.com/en/books/s/metadata.json",
+        "citation_bibtex": "https://brenev.com/en/books/s/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24572503",
+        "zenodo": "https://zenodo.org/records/24572503",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "internet_archive": "https://archive.org/details/brenev-s-en-2026-11-26-1",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24572503"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "s",
+      "work_id": "urn:brenev:book:s",
+      "edition_id": "urn:brenev:edition:s:es:212825f3beb9469b",
+      "title": "El espacio desde dentro",
+      "language": "es",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Estudio de la reconstrucción de conectividad y geometría a partir de respuestas observables. Los modelos de redes muestran ambigüedad, deriva de calibración y el papel de sondas adicionales. Incluye un práctico con redes RC y distingue datos sintéticos, proyectos instrumentales y observaciones de la naturaleza.",
+      "subject_keywords": [
+        "inverse problems",
+        "hidden connectivity",
+        "calibration drift",
+        "spectral dimension",
+        "RC network",
+        "measurement design"
+      ],
+      "genres": [
+        "inverse problems",
+        "physics models",
+        "measurement practicum"
+      ],
+      "original_pdf_pages": 181,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/es/s/El_espacio_desde_dentro.pdf",
+          "bytes": 7868988,
+          "sha256": "d58f61ee785e8d9c826519346e12fe15186141511cf81fbb3e40c499896c2a68"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/es/s/El_espacio_desde_dentro.docx",
+          "bytes": 41518174,
+          "sha256": "212825f3beb9469bd5661070ea5ded56c22eccf2d900dda1d5f58de08ce42a8f"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/es/books/s/",
+        "full_text_html": "https://brenev.com/es/books/s/full.html",
+        "full_text_txt": "https://brenev.com/es/books/s/full.txt",
+        "structured_text_jsonl": "https://brenev.com/es/books/s/full.jsonl",
+        "metadata": "https://brenev.com/es/books/s/metadata.json",
+        "citation_bibtex": "https://brenev.com/es/books/s/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573148",
+        "zenodo": "https://zenodo.org/records/24573148",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573148"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "s",
+      "work_id": "urn:brenev:book:s",
+      "edition_id": "urn:brenev:edition:s:ja:db1a4dc4d86f662c",
+      "title": "内側から見る空間",
+      "language": "ja",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "測定可能な応答から接続構造や幾何学的性質を復元する問題を扱う。ネットワークモデルで逆問題の曖昧さ、校正ドリフト、追加のプローブの役割を調べる。RC回路網の実習を含み、合成データや測定装置の提案を自然の観測と区別する。",
+      "subject_keywords": [
+        "inverse problems",
+        "hidden connectivity",
+        "calibration drift",
+        "spectral dimension",
+        "RC network",
+        "measurement design"
+      ],
+      "genres": [
+        "inverse problems",
+        "physics models",
+        "measurement practicum"
+      ],
+      "original_pdf_pages": 215,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ja/s/Uchigawa_kara_miru_kukan.pdf",
+          "bytes": 9134826,
+          "sha256": "6b11967b52fa254eb22f1249f4a4e34530e248ad5ab21e847e7c6c31688f4bd1"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ja/s/Uchigawa_kara_miru_kukan.docx",
+          "bytes": 40576121,
+          "sha256": "db1a4dc4d86f662c0368c919ee48c7b1dc7390ecc788c1de5114403849b6f63e"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ja/books/s/",
+        "full_text_html": "https://brenev.com/ja/books/s/full.html",
+        "full_text_txt": "https://brenev.com/ja/books/s/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ja/books/s/full.jsonl",
+        "metadata": "https://brenev.com/ja/books/s/metadata.json",
+        "citation_bibtex": "https://brenev.com/ja/books/s/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573160",
+        "zenodo": "https://zenodo.org/records/24573160",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573160"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "s",
+      "work_id": "urn:brenev:book:s",
+      "edition_id": "urn:brenev:edition:s:ko:3ff0e3c30da81c28",
+      "title": "안에서 본 공간",
+      "language": "ko",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "측정 가능한 응답에서 연결 구조와 기하학적 성질을 복원하는 문제를 다룬다. 네트워크 모형으로 역문제의 모호성, 교정 드리프트와 추가 탐침의 역할을 살핀다. RC 회로망 실습을 포함하며 합성 자료와 장비 제안을 자연 관측과 구분한다.",
+      "subject_keywords": [
+        "inverse problems",
+        "hidden connectivity",
+        "calibration drift",
+        "spectral dimension",
+        "RC network",
+        "measurement design"
+      ],
+      "genres": [
+        "inverse problems",
+        "physics models",
+        "measurement practicum"
+      ],
+      "original_pdf_pages": 211,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ko/s/Space_from_Within_KO.pdf",
+          "bytes": 7364873,
+          "sha256": "d2feea16568fa03de67ee97d884139a3ef367cffbb1c4bbf36a7df2f584054f6"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ko/s/Space_from_Within_KO.docx",
+          "bytes": 38679395,
+          "sha256": "3ff0e3c30da81c28437825b3ffb40077ec0d42d61516c00bf1347d7c98952e1e"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ko/books/s/",
+        "full_text_html": "https://brenev.com/ko/books/s/full.html",
+        "full_text_txt": "https://brenev.com/ko/books/s/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ko/books/s/full.jsonl",
+        "metadata": "https://brenev.com/ko/books/s/metadata.json",
+        "citation_bibtex": "https://brenev.com/ko/books/s/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573169",
+        "zenodo": "https://zenodo.org/records/24573169",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573169"
+      },
+      "software_license": "MIT"
+    },
+    {
+      "book_id": "n",
+      "work_id": "urn:brenev:book:n",
+      "edition_id": "urn:brenev:edition:n:ru:82a5642168fe403e",
+      "title": "Протокол неизвестного",
+      "language": "ru",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Евгений Бренев"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Мира Вейран"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Практическая книга об организации решений при биологических угрозах и событиях неизвестной природы: от первого сообщения и помощи людям до расследования, восстановления и передачи ответственности. Навигаторы, карточки, сценарии и рабочие формы предназначены для обучения и разработки местных инструкций. Авторские маршруты требуют проверки в конкретной организации; специализированные действия выполняются в рамках компетенции и действующих процедур.",
+      "subject_keywords": [
+        "incident response",
+        "biological threats",
+        "continuity",
+        "handover",
+        "planetary protection",
+        "tabletop exercise"
+      ],
+      "genres": [
+        "scenario workbook",
+        "incident response",
+        "biological uncertainty"
+      ],
+      "original_pdf_pages": 207,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ru/n/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B3%D0%BE.pdf",
+          "bytes": 8092503,
+          "sha256": "ea676745399ee2f3eff3a5f954da6081083a0efc0e5a321448e599a0a0270f8d"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ru/n/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B3%D0%BE.docx",
+          "bytes": 55891690,
+          "sha256": "82a5642168fe403e7dc7bbcfba015b5c51e6bf956b428c7fa933a01bdc73e19d"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ru/books/n/",
+        "full_text_html": "https://brenev.com/ru/books/n/full.html",
+        "full_text_txt": "https://brenev.com/ru/books/n/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ru/books/n/full.jsonl",
+        "metadata": "https://brenev.com/ru/books/n/metadata.json",
+        "citation_bibtex": "https://brenev.com/ru/books/n/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573179",
+        "zenodo": "https://zenodo.org/records/24573179",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573179"
+      }
+    },
+    {
+      "book_id": "n",
+      "work_id": "urn:brenev:book:n",
+      "edition_id": "urn:brenev:edition:n:en:6b6a44b20721b0e3",
+      "title": "A Protocol for the Unknown",
+      "language": "en",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "A practical workbook on organizing decisions during biological threats and events of unknown origin, from initial reports and assistance to investigation, recovery and handover. Navigation aids, action cards, scenarios and forms support training and local procedure design. Author-proposed routes require assessment in the relevant organization; specialist actions remain subject to competence and applicable procedures.",
+      "subject_keywords": [
+        "incident response",
+        "biological threats",
+        "continuity",
+        "handover",
+        "planetary protection",
+        "tabletop exercise"
+      ],
+      "genres": [
+        "scenario workbook",
+        "incident response",
+        "biological uncertainty"
+      ],
+      "original_pdf_pages": 198,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/en/n/A_Protocol_for_the_Unknown.pdf",
+          "bytes": 7637694,
+          "sha256": "00763fc3e26b965198a6fa0f6f60c6eb6666a365775c45a3353c5eb2e12d0081"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/en/n/A_Protocol_for_the_Unknown.docx",
+          "bytes": 53418846,
+          "sha256": "6b6a44b20721b0e3a0056ba2f9397af58367b31e7157b7807ec89c3f6e2bf2d3"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/en/books/n/",
+        "full_text_html": "https://brenev.com/en/books/n/full.html",
+        "full_text_txt": "https://brenev.com/en/books/n/full.txt",
+        "structured_text_jsonl": "https://brenev.com/en/books/n/full.jsonl",
+        "metadata": "https://brenev.com/en/books/n/metadata.json",
+        "citation_bibtex": "https://brenev.com/en/books/n/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573189",
+        "zenodo": "https://zenodo.org/records/24573189",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573189"
+      }
+    },
+    {
+      "book_id": "n",
+      "work_id": "urn:brenev:book:n",
+      "edition_id": "urn:brenev:edition:n:es:d3761f0338ed8ee7",
+      "title": "Un protocolo para lo desconocido",
+      "language": "es",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Cuaderno práctico sobre la organización de decisiones ante amenazas biológicas y sucesos de origen desconocido. Incluye navegación, tarjetas de actuación, escenarios y formularios para formación y diseño de instrucciones locales. Las propuestas de los autores requieren evaluación en cada organización y dentro de las competencias aplicables.",
+      "subject_keywords": [
+        "incident response",
+        "biological threats",
+        "continuity",
+        "handover",
+        "planetary protection",
+        "tabletop exercise"
+      ],
+      "genres": [
+        "scenario workbook",
+        "incident response",
+        "biological uncertainty"
+      ],
+      "original_pdf_pages": 208,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/es/n/Un_protocolo_para_lo_desconocido.pdf",
+          "bytes": 7988317,
+          "sha256": "988f1b11fdca3f6b23f305adfecfd47226287e8c6644d6a8e5316c5d316a859c"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/es/n/Un_protocolo_para_lo_desconocido.docx",
+          "bytes": 53584175,
+          "sha256": "d3761f0338ed8ee7eff9c82ce7e165291918fc8ff71f3b6e041a87e50d74be26"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/es/books/n/",
+        "full_text_html": "https://brenev.com/es/books/n/full.html",
+        "full_text_txt": "https://brenev.com/es/books/n/full.txt",
+        "structured_text_jsonl": "https://brenev.com/es/books/n/full.jsonl",
+        "metadata": "https://brenev.com/es/books/n/metadata.json",
+        "citation_bibtex": "https://brenev.com/es/books/n/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573193",
+        "zenodo": "https://zenodo.org/records/24573193",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573193"
+      }
+    },
+    {
+      "book_id": "n",
+      "work_id": "urn:brenev:book:n",
+      "edition_id": "urn:brenev:edition:n:ja:61689b261d41be34",
+      "title": "未知へのプロトコル",
+      "language": "ja",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "生物学的脅威や原因不明の事象に対する判断と対応の組織化を扱う実践書。初報、支援、調査、復旧、引継ぎをつなぐ。行動カード、シナリオ、様式は訓練と地域・組織の手順設計のためのもので、専門的対応には個別の評価と権限が必要となる。",
+      "subject_keywords": [
+        "incident response",
+        "biological threats",
+        "continuity",
+        "handover",
+        "planetary protection",
+        "tabletop exercise"
+      ],
+      "genres": [
+        "scenario workbook",
+        "incident response",
+        "biological uncertainty"
+      ],
+      "original_pdf_pages": 222,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ja/n/Michi_e_no_protocol.pdf",
+          "bytes": 9416026,
+          "sha256": "353113d2b6456202c5dc3f1f17715a10cf15d4f936569bd49fe032b5ceaf796a"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ja/n/Michi_e_no_protocol.docx",
+          "bytes": 53202606,
+          "sha256": "61689b261d41be34c61a4cb0aa57e7b83a423ed5346bcba171d89b111ed31922"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ja/books/n/",
+        "full_text_html": "https://brenev.com/ja/books/n/full.html",
+        "full_text_txt": "https://brenev.com/ja/books/n/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ja/books/n/full.jsonl",
+        "metadata": "https://brenev.com/ja/books/n/metadata.json",
+        "citation_bibtex": "https://brenev.com/ja/books/n/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573201",
+        "zenodo": "https://zenodo.org/records/24573201",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573201"
+      }
+    },
+    {
+      "book_id": "n",
+      "work_id": "urn:brenev:book:n",
+      "edition_id": "urn:brenev:edition:n:ko:750c021175e9e655",
+      "title": "미지의 프로토콜",
+      "language": "ko",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "생물학적 위협과 원인 미상 사건에서 판단과 대응을 조직하는 실용서. 최초 보고, 지원, 조사, 복구와 인계를 연결한다. 행동 카드, 시나리오와 서식은 훈련과 조직별 절차 설계를 위한 것으로, 전문적 대응에는 개별 평가와 적절한 권한이 필요하다.",
+      "subject_keywords": [
+        "incident response",
+        "biological threats",
+        "continuity",
+        "handover",
+        "planetary protection",
+        "tabletop exercise"
+      ],
+      "genres": [
+        "scenario workbook",
+        "incident response",
+        "biological uncertainty"
+      ],
+      "original_pdf_pages": 213,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ko/n/Protocol_of_the_Unknown_KO.pdf",
+          "bytes": 7206616,
+          "sha256": "f2ed3535b9f22350794f07d859819dcf55af41d92e11e92b02c471a36402c0f0"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ko/n/Protocol_of_the_Unknown_KO.docx",
+          "bytes": 52617151,
+          "sha256": "750c021175e9e655574c54d7ef4054edcc945b6794a8f604e4692023dc0ab78a"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ko/books/n/",
+        "full_text_html": "https://brenev.com/ko/books/n/full.html",
+        "full_text_txt": "https://brenev.com/ko/books/n/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ko/books/n/full.jsonl",
+        "metadata": "https://brenev.com/ko/books/n/metadata.json",
+        "citation_bibtex": "https://brenev.com/ko/books/n/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573211",
+        "zenodo": "https://zenodo.org/records/24573211",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573211"
+      }
+    },
+    {
+      "book_id": "u",
+      "work_id": "urn:brenev:book:u",
+      "edition_id": "urn:brenev:edition:u:ru:1662a416afe30c0d",
+      "title": "У реальности нет периметра",
+      "language": "ru",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Евгений Бренев"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Мира Вейран"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Сценарное руководство о действиях при неопознанных и внеземных угрозах. Связывает первое решение, исследование, помощь людям, устойчивость жизненно важных функций, управление и контакт. Условные модели и вымышленные учения помогают проверять решения при неопределённости; они не устанавливают существование описанных угроз. Протоколы представлены как авторские проекты для сопоставления с реальными возможностями и местными процедурами.",
+      "subject_keywords": [
+        "unknown hazards",
+        "civil protection",
+        "essential functions",
+        "scenario planning",
+        "contact",
+        "crisis recovery"
+      ],
+      "genres": [
+        "scenario guide",
+        "uncertainty",
+        "civil protection"
+      ],
+      "original_pdf_pages": 237,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ru/u/%D0%A3_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%BD%D0%B5%D1%82_%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D1%82%D1%80%D0%B0.pdf",
+          "bytes": 12210568,
+          "sha256": "b04125dfdda3a945a35068db8a26bbede29056b1208825aa4ede777c42036837"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ru/u/%D0%A3_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%BD%D0%B5%D1%82_%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D1%82%D1%80%D0%B0.docx",
+          "bytes": 73706529,
+          "sha256": "1662a416afe30c0d34426dcd663720c881ec77f0327fcc9ab0de36202529c1fb"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ru/books/u/",
+        "full_text_html": "https://brenev.com/ru/books/u/full.html",
+        "full_text_txt": "https://brenev.com/ru/books/u/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ru/books/u/full.jsonl",
+        "metadata": "https://brenev.com/ru/books/u/metadata.json",
+        "citation_bibtex": "https://brenev.com/ru/books/u/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573226",
+        "zenodo": "https://zenodo.org/records/24573226",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573226"
+      }
+    },
+    {
+      "book_id": "u",
+      "work_id": "urn:brenev:book:u",
+      "edition_id": "urn:brenev:edition:u:en:b12ab1463f28e34f",
+      "title": "Reality Has No Perimeter",
+      "language": "en",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "A scenario guide to decisions under unidentified and extraterrestrial hazards. It connects initial action, investigation, assistance, continuity of essential functions, governance and contact. Conditional models and fictional exercises support decision testing under uncertainty; they do not establish the existence of the depicted hazards. Protocols are author proposals to be assessed against actual capabilities and local procedures.",
+      "subject_keywords": [
+        "unknown hazards",
+        "civil protection",
+        "essential functions",
+        "scenario planning",
+        "contact",
+        "crisis recovery"
+      ],
+      "genres": [
+        "scenario guide",
+        "uncertainty",
+        "civil protection"
+      ],
+      "original_pdf_pages": 230,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/en/u/Reality_Has_No_Perimeter.pdf",
+          "bytes": 11750378,
+          "sha256": "f466985ea89aec28b4ed6c1c7d46fc833cfc80f7d22ff2817592510d0c5e3206"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/en/u/Reality_Has_No_Perimeter.docx",
+          "bytes": 71105278,
+          "sha256": "b12ab1463f28e34fba8b8d805d02b17a8c54bef7d70bf6404c7da152f61f5e3f"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/en/books/u/",
+        "full_text_html": "https://brenev.com/en/books/u/full.html",
+        "full_text_txt": "https://brenev.com/en/books/u/full.txt",
+        "structured_text_jsonl": "https://brenev.com/en/books/u/full.jsonl",
+        "metadata": "https://brenev.com/en/books/u/metadata.json",
+        "citation_bibtex": "https://brenev.com/en/books/u/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573228",
+        "zenodo": "https://zenodo.org/records/24573228",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573228"
+      }
+    },
+    {
+      "book_id": "u",
+      "work_id": "urn:brenev:book:u",
+      "edition_id": "urn:brenev:edition:u:es:c750512a65394b00",
+      "title": "La realidad no tiene perímetro",
+      "language": "es",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Guía de escenarios sobre decisiones ante amenazas no identificadas y extraterrestres. Conecta investigación, ayuda, funciones esenciales, gestión y contacto. Las amenazas condicionales y los ejercicios ficticios sirven para examinar decisiones bajo incertidumbre; los protocolos son propuestas que requieren evaluación local.",
+      "subject_keywords": [
+        "unknown hazards",
+        "civil protection",
+        "essential functions",
+        "scenario planning",
+        "contact",
+        "crisis recovery"
+      ],
+      "genres": [
+        "scenario guide",
+        "uncertainty",
+        "civil protection"
+      ],
+      "original_pdf_pages": 240,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/es/u/La_realidad_no_tiene_perimetro.pdf",
+          "bytes": 12261074,
+          "sha256": "858773c110997f8b7a0231795a4d7db35de486c16c490cbe2959390fdb569a64"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/es/u/La_realidad_no_tiene_perimetro.docx",
+          "bytes": 71361273,
+          "sha256": "c750512a65394b0015088dc37b0288978c1063f63d9d4bb31929bae2959f9f60"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/es/books/u/",
+        "full_text_html": "https://brenev.com/es/books/u/full.html",
+        "full_text_txt": "https://brenev.com/es/books/u/full.txt",
+        "structured_text_jsonl": "https://brenev.com/es/books/u/full.jsonl",
+        "metadata": "https://brenev.com/es/books/u/metadata.json",
+        "citation_bibtex": "https://brenev.com/es/books/u/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573235",
+        "zenodo": "https://zenodo.org/records/24573235",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573235"
+      }
+    },
+    {
+      "book_id": "u",
+      "work_id": "urn:brenev:book:u",
+      "edition_id": "urn:brenev:edition:u:ja:7c4f021dd075f922",
+      "title": "現実には外周がない",
+      "language": "ja",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "未確認の脅威や地球外の脅威を想定したシナリオガイド。初動、調査、支援、重要機能の継続、統治、接触を結び付ける。条件付きモデルと架空の演習は不確実な状況で判断を検討するためのもので、脅威の実在を示すものではない。",
+      "subject_keywords": [
+        "unknown hazards",
+        "civil protection",
+        "essential functions",
+        "scenario planning",
+        "contact",
+        "crisis recovery"
+      ],
+      "genres": [
+        "scenario guide",
+        "uncertainty",
+        "civil protection"
+      ],
+      "original_pdf_pages": 255,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ja/u/Genjitsu_ni_wa_gaishu_ga_nai.pdf",
+          "bytes": 13772769,
+          "sha256": "139de4ae2c35681b3ada071dda314b9f151446e12e8e7c088d9aeb19fc91bd3e"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ja/u/Genjitsu_ni_wa_gaishu_ga_nai.docx",
+          "bytes": 71093007,
+          "sha256": "7c4f021dd075f92208a3cca6761c95ef2442ed711744949225727d35579f7290"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ja/books/u/",
+        "full_text_html": "https://brenev.com/ja/books/u/full.html",
+        "full_text_txt": "https://brenev.com/ja/books/u/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ja/books/u/full.jsonl",
+        "metadata": "https://brenev.com/ja/books/u/metadata.json",
+        "citation_bibtex": "https://brenev.com/ja/books/u/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573254",
+        "zenodo": "https://zenodo.org/records/24573254",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573254"
+      }
+    },
+    {
+      "book_id": "u",
+      "work_id": "urn:brenev:book:u",
+      "edition_id": "urn:brenev:edition:u:ko:24b9faa25dfd0f13",
+      "title": "현실에는 둘레가 없다",
+      "language": "ko",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "미확인 위협과 외계 위협을 가정한 시나리오 안내서. 초기 대응, 조사, 지원, 필수 기능 유지, 관리와 접촉을 연결한다. 조건부 모형과 가상의 훈련은 불확실성 속 판단을 검토하기 위한 것이며 위협의 실재를 입증하는 것은 아니다.",
+      "subject_keywords": [
+        "unknown hazards",
+        "civil protection",
+        "essential functions",
+        "scenario planning",
+        "contact",
+        "crisis recovery"
+      ],
+      "genres": [
+        "scenario guide",
+        "uncertainty",
+        "civil protection"
+      ],
+      "original_pdf_pages": 242,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ko/u/Reality_Has_No_Perimeter_KO.pdf",
+          "bytes": 11343083,
+          "sha256": "a38a6e41cb83e60b6cda11bdbf9dc94200966b85937aa74eb866e20f2147b39f"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ko/u/Reality_Has_No_Perimeter_KO.docx",
+          "bytes": 70202697,
+          "sha256": "24b9faa25dfd0f13e1cbff1c1d514cd9c4a321894f55db895c4b3a8db7821144"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ko/books/u/",
+        "full_text_html": "https://brenev.com/ko/books/u/full.html",
+        "full_text_txt": "https://brenev.com/ko/books/u/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ko/books/u/full.jsonl",
+        "metadata": "https://brenev.com/ko/books/u/metadata.json",
+        "citation_bibtex": "https://brenev.com/ko/books/u/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573260",
+        "zenodo": "https://zenodo.org/records/24573260",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573260"
+      }
+    },
+    {
+      "book_id": "y",
+      "work_id": "urn:brenev:book:y",
+      "edition_id": "urn:brenev:edition:y:ru:6d9b64db41b3348d",
+      "title": "Я до меня",
+      "language": "ru",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Евгений Бренев"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Мира Вейран"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Исследовательское сопоставление опубликованных свидетельств об околосмертных переживаниях, памяти до рождения и встречах с умершими. Различает содержание опыта, историю записи, независимые подтверждения и объяснения; обсуждает время и непрерывность личности. Паспорта свидетельств и расчётные примеры помогают проверять происхождение и порядок эпизодов. Согласованность рассказов не принимается за доказательство жизни между жизнями, а обзор не заявлен как исчерпывающий.",
+      "subject_keywords": [
+        "near-death experiences",
+        "testimony",
+        "memory",
+        "personal identity",
+        "pre-birth reports",
+        "source criticism"
+      ],
+      "genres": [
+        "research synthesis",
+        "memory",
+        "philosophy of personal identity"
+      ],
+      "original_pdf_pages": 164,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ru/y/%D0%AF_%D0%B4%D0%BE_%D0%BC%D0%B5%D0%BD%D1%8F.pdf",
+          "bytes": 3317709,
+          "sha256": "ae44b6e28a9a9e0e50a71b5fbc089c963a2b56054cf6d8c014e3e890df983b22"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ru/y/%D0%AF_%D0%B4%D0%BE_%D0%BC%D0%B5%D0%BD%D1%8F.docx",
+          "bytes": 39181449,
+          "sha256": "6d9b64db41b3348d8c4e0944d1bad041427c04e8b89d99d14034ae2d215dc11d"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ru/books/y/",
+        "full_text_html": "https://brenev.com/ru/books/y/full.html",
+        "full_text_txt": "https://brenev.com/ru/books/y/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ru/books/y/full.jsonl",
+        "metadata": "https://brenev.com/ru/books/y/metadata.json",
+        "citation_bibtex": "https://brenev.com/ru/books/y/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573274",
+        "zenodo": "https://zenodo.org/records/24573274",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573274"
+      }
+    },
+    {
+      "book_id": "y",
+      "work_id": "urn:brenev:book:y",
+      "edition_id": "urn:brenev:edition:y:en:f6adcfd0c1dc8f30",
+      "title": "I Before Me",
+      "language": "en",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "A research synthesis of published accounts of near-death experiences, pre-birth memories and encounters with the deceased. It distinguishes reported experience, recording history, independent corroboration and explanation, while examining time and personal continuity. Testimony records and calculation examples support source criticism and sequence checking. Narrative coherence is not treated as proof of life between lives, and the review does not claim exhaustive coverage.",
+      "subject_keywords": [
+        "near-death experiences",
+        "testimony",
+        "memory",
+        "personal identity",
+        "pre-birth reports",
+        "source criticism"
+      ],
+      "genres": [
+        "research synthesis",
+        "memory",
+        "philosophy of personal identity"
+      ],
+      "original_pdf_pages": 154,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/en/y/I_Before_Me.pdf",
+          "bytes": 2957003,
+          "sha256": "9f5d8b7f1012543b66ac02673222026d38b09e15c48b5c17e4fa18eb8c097b76"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/en/y/I_Before_Me.docx",
+          "bytes": 37775817,
+          "sha256": "f6adcfd0c1dc8f30a1754233a99ec22a782052047732b29526508fa789a8c2b5"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/en/books/y/",
+        "full_text_html": "https://brenev.com/en/books/y/full.html",
+        "full_text_txt": "https://brenev.com/en/books/y/full.txt",
+        "structured_text_jsonl": "https://brenev.com/en/books/y/full.jsonl",
+        "metadata": "https://brenev.com/en/books/y/metadata.json",
+        "citation_bibtex": "https://brenev.com/en/books/y/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573282",
+        "zenodo": "https://zenodo.org/records/24573282",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573282"
+      }
+    },
+    {
+      "book_id": "y",
+      "work_id": "urn:brenev:book:y",
+      "edition_id": "urn:brenev:edition:y:es:a7da270ba3699745",
+      "title": "Yo antes de mí",
+      "language": "es",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Síntesis de testimonios publicados sobre experiencias cercanas a la muerte, recuerdos anteriores al nacimiento y encuentros con fallecidos. Distingue relato, registro, corroboración e interpretación y examina tiempo e identidad. La coherencia narrativa no se presenta como prueba de una vida entre vidas.",
+      "subject_keywords": [
+        "near-death experiences",
+        "testimony",
+        "memory",
+        "personal identity",
+        "pre-birth reports",
+        "source criticism"
+      ],
+      "genres": [
+        "research synthesis",
+        "memory",
+        "philosophy of personal identity"
+      ],
+      "original_pdf_pages": 158,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/es/y/Yo_antes_de_mi.pdf",
+          "bytes": 3122214,
+          "sha256": "85a6200e47e6ce0ad168c62e288db020efb44034fc087720e6b005b80ddc06f0"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/es/y/Yo_antes_de_mi.docx",
+          "bytes": 37903806,
+          "sha256": "a7da270ba3699745096d19fa4c2e06a61f8ea2c080d6302d2ace55de4b56d06d"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/es/books/y/",
+        "full_text_html": "https://brenev.com/es/books/y/full.html",
+        "full_text_txt": "https://brenev.com/es/books/y/full.txt",
+        "structured_text_jsonl": "https://brenev.com/es/books/y/full.jsonl",
+        "metadata": "https://brenev.com/es/books/y/metadata.json",
+        "citation_bibtex": "https://brenev.com/es/books/y/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573288",
+        "zenodo": "https://zenodo.org/records/24573288",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573288"
+      }
+    },
+    {
+      "book_id": "y",
+      "work_id": "urn:brenev:book:y",
+      "edition_id": "urn:brenev:edition:y:ja:154db805c46757ab",
+      "title": "私より前の私",
+      "language": "ja",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "臨死体験、出生前の記憶、故人との出会いに関する公表された証言を比較する。体験の内容、記録の経緯、独立した裏付け、解釈を区別し、時間と人格の連続性を検討する。物語の整合性だけで生と生の間の生活が証明されるとはしていない。",
+      "subject_keywords": [
+        "near-death experiences",
+        "testimony",
+        "memory",
+        "personal identity",
+        "pre-birth reports",
+        "source criticism"
+      ],
+      "genres": [
+        "research synthesis",
+        "memory",
+        "philosophy of personal identity"
+      ],
+      "original_pdf_pages": 144,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ja/y/Watashi_yori_mae_no_watashi.pdf",
+          "bytes": 4624820,
+          "sha256": "e017708d1fe7d960a5e9e1199f3d616f66e8ec29bf41d08cdd64e522219ae550"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ja/y/Watashi_yori_mae_no_watashi.docx",
+          "bytes": 37709586,
+          "sha256": "154db805c46757abe95106d703866864509632d25c4670163ce1dc676234b1a1"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ja/books/y/",
+        "full_text_html": "https://brenev.com/ja/books/y/full.html",
+        "full_text_txt": "https://brenev.com/ja/books/y/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ja/books/y/full.jsonl",
+        "metadata": "https://brenev.com/ja/books/y/metadata.json",
+        "citation_bibtex": "https://brenev.com/ja/books/y/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573298",
+        "zenodo": "https://zenodo.org/records/24573298",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573298"
+      }
+    },
+    {
+      "book_id": "y",
+      "work_id": "urn:brenev:book:y",
+      "edition_id": "urn:brenev:edition:y:ko:e62905fb0a0e3fd4",
+      "title": "나 이전의 나",
+      "language": "ko",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "임사체험, 출생 이전의 기억과 고인과의 만남에 관한 공개 증언을 비교한다. 체험 내용, 기록 경위, 독립적 확인과 해석을 구분하고 시간과 인격의 연속성을 살핀다. 이야기의 일관성만으로 삶과 삶 사이의 생활이 입증된다고 보지 않는다.",
+      "subject_keywords": [
+        "near-death experiences",
+        "testimony",
+        "memory",
+        "personal identity",
+        "pre-birth reports",
+        "source criticism"
+      ],
+      "genres": [
+        "research synthesis",
+        "memory",
+        "philosophy of personal identity"
+      ],
+      "original_pdf_pages": 137,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ko/y/I_Before_Me_KO.pdf",
+          "bytes": 3047260,
+          "sha256": "57fa418e22d30924f54653ef51854e8c8a57c3f7d1ae2098c57d2495bbd8f2cf"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ko/y/I_Before_Me_KO.docx",
+          "bytes": 37184563,
+          "sha256": "e62905fb0a0e3fd46dafa4fc70d096568a4d8dba97e82a3475ea60dcfe942c96"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ko/books/y/",
+        "full_text_html": "https://brenev.com/ko/books/y/full.html",
+        "full_text_txt": "https://brenev.com/ko/books/y/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ko/books/y/full.jsonl",
+        "metadata": "https://brenev.com/ko/books/y/metadata.json",
+        "citation_bibtex": "https://brenev.com/ko/books/y/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573307",
+        "zenodo": "https://zenodo.org/records/24573307",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573307"
+      }
+    },
+    {
+      "book_id": "r",
+      "work_id": "urn:brenev:book:r",
+      "edition_id": "urn:brenev:edition:r:ru:7fd5d3983dbe30a3",
+      "title": "Ярко красный",
+      "language": "ru",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Евгений Бренев"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Мира Вейран"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Методическая книга об исследовании аномалий пространства, времени, материи и информации. Соединяет регистрацию события, измерение, конкурирующие причинные модели и условия пересмотра решения. Приборные проекты, учебные дела и формы показывают путь от наблюдения к ограниченному выводу. Условные модели не удостоверяют существование их источника в природе; числа вымышленных сценариев служат разбору задачи.",
+      "subject_keywords": [
+        "anomalies",
+        "causal models",
+        "measurement",
+        "data provenance",
+        "alternative explanations",
+        "research protocols"
+      ],
+      "genres": [
+        "research methodology",
+        "anomaly investigation",
+        "scenario practicum"
+      ],
+      "original_pdf_pages": 242,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ru/r/%D0%AF%D1%80%D0%BA%D0%BE_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9.pdf",
+          "bytes": 6295762,
+          "sha256": "ac64f713094d9be26cf9991b7a788694cf97c99dc7483357f5cab06256093a99"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ru/r/%D0%AF%D1%80%D0%BA%D0%BE_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9.docx",
+          "bytes": 11017174,
+          "sha256": "7fd5d3983dbe30a3c47ef406636483260c7959ab2fb55fe07f3b9553612b1b07"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ru/books/r/",
+        "full_text_html": "https://brenev.com/ru/books/r/full.html",
+        "full_text_txt": "https://brenev.com/ru/books/r/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ru/books/r/full.jsonl",
+        "metadata": "https://brenev.com/ru/books/r/metadata.json",
+        "citation_bibtex": "https://brenev.com/ru/books/r/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573315",
+        "zenodo": "https://zenodo.org/records/24573315",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573315"
+      }
+    },
+    {
+      "book_id": "r",
+      "work_id": "urn:brenev:book:r",
+      "edition_id": "urn:brenev:edition:r:en:70517ed4641c7925",
+      "title": "Bright Red",
+      "language": "en",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "A methodological book on investigating anomalies of space, time, matter and information. It connects event records, measurement, competing causal models and conditions for revising decisions. Instrument proposals, teaching cases and forms trace a path from observation to a bounded inference. Conditional models do not establish that their sources exist in nature; numbers in fictional scenarios serve the educational example.",
+      "subject_keywords": [
+        "anomalies",
+        "causal models",
+        "measurement",
+        "data provenance",
+        "alternative explanations",
+        "research protocols"
+      ],
+      "genres": [
+        "research methodology",
+        "anomaly investigation",
+        "scenario practicum"
+      ],
+      "original_pdf_pages": 227,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/en/r/Bright_Red.pdf",
+          "bytes": 5592302,
+          "sha256": "70dfa43e69f2f442a497da5b87615d2ce05570ce5378fea68bedad4b775f78fb"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/en/r/Bright_Red.docx",
+          "bytes": 8041302,
+          "sha256": "70517ed4641c79255fd9594f9e36e4450904c8d83e0c02d173401dddc8bf3d1b"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/en/books/r/",
+        "full_text_html": "https://brenev.com/en/books/r/full.html",
+        "full_text_txt": "https://brenev.com/en/books/r/full.txt",
+        "structured_text_jsonl": "https://brenev.com/en/books/r/full.jsonl",
+        "metadata": "https://brenev.com/en/books/r/metadata.json",
+        "citation_bibtex": "https://brenev.com/en/books/r/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573321",
+        "zenodo": "https://zenodo.org/records/24573321",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573321"
+      }
+    },
+    {
+      "book_id": "r",
+      "work_id": "urn:brenev:book:r",
+      "edition_id": "urn:brenev:edition:r:es:44e48b820064f873",
+      "title": "Rojo vivo",
+      "language": "es",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "Libro metodológico sobre anomalías del espacio, el tiempo, la materia y la información. Conecta registro, medición, modelos causales alternativos y revisión de decisiones. Incluye proyectos instrumentales, casos docentes y formularios, distinguiendo modelos condicionales y escenarios ficticios de observaciones confirmadas.",
+      "subject_keywords": [
+        "anomalies",
+        "causal models",
+        "measurement",
+        "data provenance",
+        "alternative explanations",
+        "research protocols"
+      ],
+      "genres": [
+        "research methodology",
+        "anomaly investigation",
+        "scenario practicum"
+      ],
+      "original_pdf_pages": 237,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/es/r/Rojo_vivo.pdf",
+          "bytes": 5998327,
+          "sha256": "f038e50b5e21dfd544fb9e2fd66eafb82f9c2d0596b1aa0aff17a6a0716b2262"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/es/r/Rojo_vivo.docx",
+          "bytes": 8432092,
+          "sha256": "44e48b820064f8737e9f21bdaad5a6eb8510c825ecf0d204b8d342a0798b2d5c"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/es/books/r/",
+        "full_text_html": "https://brenev.com/es/books/r/full.html",
+        "full_text_txt": "https://brenev.com/es/books/r/full.txt",
+        "structured_text_jsonl": "https://brenev.com/es/books/r/full.jsonl",
+        "metadata": "https://brenev.com/es/books/r/metadata.json",
+        "citation_bibtex": "https://brenev.com/es/books/r/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573323",
+        "zenodo": "https://zenodo.org/records/24573323",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573323"
+      }
+    },
+    {
+      "book_id": "r",
+      "work_id": "urn:brenev:book:r",
+      "edition_id": "urn:brenev:edition:r:ja:d1c776a5ac2c2465",
+      "title": "鮮やかな赤",
+      "language": "ja",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "空間、時間、物質、情報の異常を調べる方法論の書。事象の記録、測定、競合する因果モデル、判断を修正する条件を結び付ける。装置の提案、学習用事例、様式を含み、条件付きモデルや架空のシナリオを確認済みの観測と区別する。",
+      "subject_keywords": [
+        "anomalies",
+        "causal models",
+        "measurement",
+        "data provenance",
+        "alternative explanations",
+        "research protocols"
+      ],
+      "genres": [
+        "research methodology",
+        "anomaly investigation",
+        "scenario practicum"
+      ],
+      "original_pdf_pages": 293,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ja/r/Azayakana_aka.pdf",
+          "bytes": 7707439,
+          "sha256": "f8a086e5e705bdf60393deddbba5bd1d5780a23bc25aaa828d985ca0a30109c5"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ja/r/Azayakana_aka.docx",
+          "bytes": 7930472,
+          "sha256": "d1c776a5ac2c2465cc9b137eeb6c9c0c08a7dc8cc832ee251eae22b7097745f0"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ja/books/r/",
+        "full_text_html": "https://brenev.com/ja/books/r/full.html",
+        "full_text_txt": "https://brenev.com/ja/books/r/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ja/books/r/full.jsonl",
+        "metadata": "https://brenev.com/ja/books/r/metadata.json",
+        "citation_bibtex": "https://brenev.com/ja/books/r/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573336",
+        "zenodo": "https://zenodo.org/records/24573336",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573336"
+      }
+    },
+    {
+      "book_id": "r",
+      "work_id": "urn:brenev:book:r",
+      "edition_id": "urn:brenev:edition:r:ko:8ffcc903f3ab1356",
+      "title": "선명한 빨강",
+      "language": "ko",
+      "publication_year": 2026,
+      "digital_release": "2026-11-26.1",
+      "creators": [
+        {
+          "name": "Евгений Бренев",
+          "name_latin": "Eudgene Brenev",
+          "role": "author",
+          "entity_type": "human",
+          "url": "https://brenev.com/#authors",
+          "email": "info@brenev.com",
+          "display_name": "Eudgene Brenev"
+        },
+        {
+          "name": "Мира Вейран",
+          "name_latin": "Mira Veyran",
+          "role": "AI coauthor",
+          "entity_type": "AI persona",
+          "url": "https://brenev.com/mira.html",
+          "display_name": "Mira Veyran"
+        }
+      ],
+      "author_contact": {
+        "name": "Евгений Бренев / Eudgene Brenev",
+        "email": "info@brenev.com",
+        "url": "https://brenev.com/contacts.html"
+      },
+      "license": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "third_party_rights": "Third-party materials retain their respective rights; see the source references and captions.",
+      "description": "공간, 시간, 물질과 정보의 이상 현상을 조사하는 방법론을 다룬다. 사건 기록, 측정, 경쟁 인과 모형과 판단 수정 조건을 연결한다. 장비 제안, 교육 사례와 서식을 포함하며 조건부 모형과 가상 시나리오를 확인된 관측과 구분한다.",
+      "subject_keywords": [
+        "anomalies",
+        "causal models",
+        "measurement",
+        "data provenance",
+        "alternative explanations",
+        "research protocols"
+      ],
+      "genres": [
+        "research methodology",
+        "anomaly investigation",
+        "scenario practicum"
+      ],
+      "original_pdf_pages": 281,
+      "source_files": {
+        "pdf": {
+          "url": "https://brenev.com/downloads/ko/r/Vivid_Red_KO.pdf",
+          "bytes": 5946896,
+          "sha256": "7b0c98f407f3bc17233f52e085ba31d614a0bc8b97d12fe286f04b202f443324"
+        },
+        "docx": {
+          "url": "https://brenev.com/downloads/ko/r/Vivid_Red_KO.docx",
+          "bytes": 6759631,
+          "sha256": "8ffcc903f3ab1356b574c61784af47226b8dcb7a38e9720bf6f3dabcbeb17ac6"
+        }
+      },
+      "links": {
+        "url": "https://brenev.com/ko/books/r/",
+        "full_text_html": "https://brenev.com/ko/books/r/full.html",
+        "full_text_txt": "https://brenev.com/ko/books/r/full.txt",
+        "structured_text_jsonl": "https://brenev.com/ko/books/r/full.jsonl",
+        "metadata": "https://brenev.com/ko/books/r/metadata.json",
+        "citation_bibtex": "https://brenev.com/ko/books/r/citation.bib",
+        "doi": "https://doi.org/10.5281/zenodo.24573343",
+        "zenodo": "https://zenodo.org/records/24573343",
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+      },
+      "ai_use_disclosure": {
+        "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
+        "en": "According to the author, the ideas were developed by Eudgene Brenev and MIRA. Mira Veyran (MIRA) is credited as an AI coauthor / AI persona. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. The precise underlying model for MIRA and a detailed division of all drafting and coding tasks have not been independently established by this distribution catalog."
+      },
+      "identifiers": {
+        "doi": "10.5281/zenodo.24573343"
+      }
+    }
+  ]
+}
