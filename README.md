@@ -58,3 +58,12 @@ When citing, select the DOI for the language you used. A book DOI identifies the
 ## Attributed corpus reader
 
 The dependency-free [Python reader](brenev_corpus_reader.py) and notebook preserve all original source fields and join each section to its edition DOI by (`work_id`, `language`). The verified example covers all five corpus files, 1360 unique sections and 45 DOI joins; both notebook code cells were executed. Every formatted result carries both creator credits, Mira's AI role, the contact, licence, DOI and source chapter. Helper code is MIT under [reader-LICENSE-MIT.txt](reader-LICENSE-MIT.txt); books and quotations remain CC BY 4.0.
+
+
+## Kaggle corpus mirror
+
+[Public Kaggle corpus: 45 editions in five languages](https://www.kaggle.com/datasets/eudgenebrenev/brenev-books-45-editions-in-5-languages) contains 1360 sections, all 45 existing edition DOI links and 15 files in version 2. All 15 downloadable files were retrieved without sign-in and checked byte-for-byte against the prepared corpus. The five JSONL files are losslessly decompressed from the original corpus. CSV and DOI-enriched JSONL copies preserve the source fields.
+
+Credit **Eudgene Brenev (human author)** and **Mira Veyran (MIRA; AI coauthor / AI persona)**. Contact **info@brenev.com** · https://brenev.com/contacts.html . Book text and corpus remain **CC BY 4.0**; selected helper and companion code has its separately stated MIT licence. This mirror is available for reading, research, retrieval and AI use under those licences.
+
+Metadata catalogue revision: **2026-11-28.1**. Digital text release **2026-11-26.1** and existing edition DOIs are unchanged.
