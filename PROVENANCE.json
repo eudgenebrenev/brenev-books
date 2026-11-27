@@ -1,5 +1,5 @@
 {
-  "catalogue_built_utc": "2026-11-27T00:51:31.868145+00:00",
+  "catalogue_built_utc": "2026-11-27T03:10:08.585345+00:00",
   "book_release": "2026-11-26.1",
   "source_editions": 45,
   "published_zenodo_dois": 45,
@@ -17,5 +17,21 @@
   "academia_book_pages_observed": [
     "p-en"
   ],
+  "github_full_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
+  "github_release_assets_verified": 63,
+  "github_release_anonymous_download_samples": 4,
+  "reader_live_corpus_check": {
+    "command": "python -X utf8 brenev_corpus_reader.py --check",
+    "exit_code": 0,
+    "executed_before_this_notebook_check": true,
+    "languages": 5,
+    "works": 9,
+    "editions": 45,
+    "sections": 1360,
+    "unique_doi_values": 45,
+    "source_pdf_hashes_match_catalogue": true,
+    "attribution_and_contact_preserved": true
+  },
+  "reader_notebook_cells_executed": 2,
   "private_fields_excluded": true
 }

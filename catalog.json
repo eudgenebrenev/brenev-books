@@ -1,7 +1,7 @@
 {
   "schema": "brenev.public-book-catalog.v1",
   "metadata_updated": "2026-11-27",
-  "metadata_revision": "2026-11-27.2",
+  "metadata_revision": "2026-11-27.3",
   "digital_release": "2026-11-26.1",
   "works": 9,
   "editions": 45,
@@ -22,6 +22,27 @@
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "reuse": "Anyone may share, adapt and use the authors' book text, including for AI, with attribution, source and change notices under CC BY 4.0. Third-party materials retain their own rights.",
   "publication_evidence": "All 45 Zenodo editions and their metadata/file checks were verified by the delegated publishing chat on 2026-11-27. This distribution chat additionally verified all 45 DOI records via the DataCite public API: Findable state, exact title/language, human creator, AI credit, contact and CC BY 4.0. DOI values below identify published records, not drafts.",
+  "github_book_mirror": {
+    "url": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
+    "tag": "books-2026-11-26.1",
+    "pdf_editions": 45,
+    "assets": 63,
+    "server_sha256_matches_verified": 63,
+    "anonymous_downloads_verified": 4
+  },
+  "additional_text_downloads": {
+    "url": "https://drive.google.com/drive/folders/1YQGTFeSXYQSbv8GyK00jiEUOobFOfcH-",
+    "contents": "Complete source-text bundles in five languages, attribution, licence and citations; see folder contents for PDF availability."
+  },
+  "reader": {
+    "guide": "https://huggingface.co/datasets/Brenev/brenev-books/blob/main/INGESTION_AND_CITATION.md",
+    "notebook": "https://github.com/eudgenebrenev/brenev-books/blob/main/Read_and_cite_Brenev_books.ipynb",
+    "python": "https://github.com/eudgenebrenev/brenev-books/blob/main/brenev_corpus_reader.py",
+    "colab": "https://colab.research.google.com/github/eudgenebrenev/brenev-books/blob/main/Read_and_cite_Brenev_books.ipynb",
+    "helper_code_license": "MIT",
+    "book_text_license": "CC-BY-4.0",
+    "corpus_release_unchanged": true
+  },
   "records": [
     {
       "book_id": "k",
@@ -95,6 +116,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24572499",
         "zenodo": "https://zenodo.org/records/24572499",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-k-ru-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "internet_archive": "https://archive.org/details/brenev-k-ru-2026-11-26-1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1",
@@ -187,6 +210,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24572469",
         "zenodo": "https://zenodo.org/records/24572469",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-k-en-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "internet_archive": "https://archive.org/details/brenev-k-en-2026-11-26-1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1",
@@ -279,6 +304,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24572805",
         "zenodo": "https://zenodo.org/records/24572805",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-k-es-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1",
         "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
@@ -370,6 +397,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24572850",
         "zenodo": "https://zenodo.org/records/24572850",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-k-ja-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1",
         "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
@@ -461,6 +490,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24572862",
         "zenodo": "https://zenodo.org/records/24572862",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-k-ko-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1",
         "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
@@ -551,7 +582,9 @@
         "citation_bibtex": "https://brenev.com/ru/books/q/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24572921",
         "zenodo": "https://zenodo.org/records/24572921",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-q-ru-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -632,7 +665,9 @@
         "citation_bibtex": "https://brenev.com/en/books/q/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24572939",
         "zenodo": "https://zenodo.org/records/24572939",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-q-en-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -713,7 +748,9 @@
         "citation_bibtex": "https://brenev.com/es/books/q/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24572951",
         "zenodo": "https://zenodo.org/records/24572951",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-q-es-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -794,7 +831,9 @@
         "citation_bibtex": "https://brenev.com/ja/books/q/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24572961",
         "zenodo": "https://zenodo.org/records/24572961",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-q-ja-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -875,7 +914,9 @@
         "citation_bibtex": "https://brenev.com/ko/books/q/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24572966",
         "zenodo": "https://zenodo.org/records/24572966",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-q-ko-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -956,7 +997,9 @@
         "citation_bibtex": "https://brenev.com/ru/books/m/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24572992",
         "zenodo": "https://zenodo.org/records/24572992",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-m-ru-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1037,7 +1080,9 @@
         "citation_bibtex": "https://brenev.com/en/books/m/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573007",
         "zenodo": "https://zenodo.org/records/24573007",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-m-en-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1118,7 +1163,9 @@
         "citation_bibtex": "https://brenev.com/es/books/m/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573027",
         "zenodo": "https://zenodo.org/records/24573027",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-m-es-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1199,7 +1246,9 @@
         "citation_bibtex": "https://brenev.com/ja/books/m/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573046",
         "zenodo": "https://zenodo.org/records/24573046",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-m-ja-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1280,7 +1329,9 @@
         "citation_bibtex": "https://brenev.com/ko/books/m/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573074",
         "zenodo": "https://zenodo.org/records/24573074",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-m-ko-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1362,6 +1413,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24572417",
         "zenodo": "https://zenodo.org/records/24572417",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-p-ru-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "internet_archive": "https://archive.org/details/brenev-p-ru-2026-11-26-1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1",
@@ -1454,6 +1507,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24565373",
         "zenodo": "https://zenodo.org/records/24565373",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-p-en-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "internet_archive": "https://archive.org/details/brenev-p-en-2026-11-26-1",
         "academia": "https://www.academia.edu/182070872/The_Limit_of_Superposition",
         "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
@@ -1547,6 +1602,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24573100",
         "zenodo": "https://zenodo.org/records/24573100",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-p-es-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1",
         "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
@@ -1638,6 +1695,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24573111",
         "zenodo": "https://zenodo.org/records/24573111",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-p-ja-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1",
         "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
@@ -1729,6 +1788,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24573132",
         "zenodo": "https://zenodo.org/records/24573132",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-p-ko-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1",
         "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
@@ -1820,6 +1881,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24572517",
         "zenodo": "https://zenodo.org/records/24572517",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-s-ru-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1",
         "companion_software_archive": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
@@ -1911,6 +1974,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24572503",
         "zenodo": "https://zenodo.org/records/24572503",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-s-en-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "internet_archive": "https://archive.org/details/brenev-s-en-2026-11-26-1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1",
@@ -2003,6 +2068,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24573148",
         "zenodo": "https://zenodo.org/records/24573148",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-s-es-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1",
         "companion_software_archive": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
@@ -2094,6 +2161,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24573160",
         "zenodo": "https://zenodo.org/records/24573160",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-s-ja-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1",
         "companion_software_archive": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
@@ -2185,6 +2254,8 @@
         "doi": "https://doi.org/10.5281/zenodo.24573169",
         "zenodo": "https://zenodo.org/records/24573169",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-s-ko-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
         "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1",
         "companion_software_archive": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
@@ -2275,7 +2346,9 @@
         "citation_bibtex": "https://brenev.com/ru/books/n/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573179",
         "zenodo": "https://zenodo.org/records/24573179",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-n-ru-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -2356,7 +2429,9 @@
         "citation_bibtex": "https://brenev.com/en/books/n/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573189",
         "zenodo": "https://zenodo.org/records/24573189",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-n-en-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -2437,7 +2512,9 @@
         "citation_bibtex": "https://brenev.com/es/books/n/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573193",
         "zenodo": "https://zenodo.org/records/24573193",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-n-es-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -2518,7 +2595,9 @@
         "citation_bibtex": "https://brenev.com/ja/books/n/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573201",
         "zenodo": "https://zenodo.org/records/24573201",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-n-ja-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -2599,7 +2678,9 @@
         "citation_bibtex": "https://brenev.com/ko/books/n/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573211",
         "zenodo": "https://zenodo.org/records/24573211",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-n-ko-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -2680,7 +2761,9 @@
         "citation_bibtex": "https://brenev.com/ru/books/u/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573226",
         "zenodo": "https://zenodo.org/records/24573226",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-u-ru-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -2761,7 +2844,9 @@
         "citation_bibtex": "https://brenev.com/en/books/u/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573228",
         "zenodo": "https://zenodo.org/records/24573228",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-u-en-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -2842,7 +2927,9 @@
         "citation_bibtex": "https://brenev.com/es/books/u/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573235",
         "zenodo": "https://zenodo.org/records/24573235",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-u-es-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -2923,7 +3010,9 @@
         "citation_bibtex": "https://brenev.com/ja/books/u/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573254",
         "zenodo": "https://zenodo.org/records/24573254",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-u-ja-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -3004,7 +3093,9 @@
         "citation_bibtex": "https://brenev.com/ko/books/u/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573260",
         "zenodo": "https://zenodo.org/records/24573260",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-u-ko-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -3085,7 +3176,9 @@
         "citation_bibtex": "https://brenev.com/ru/books/y/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573274",
         "zenodo": "https://zenodo.org/records/24573274",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-y-ru-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -3166,7 +3259,9 @@
         "citation_bibtex": "https://brenev.com/en/books/y/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573282",
         "zenodo": "https://zenodo.org/records/24573282",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-y-en-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -3247,7 +3342,9 @@
         "citation_bibtex": "https://brenev.com/es/books/y/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573288",
         "zenodo": "https://zenodo.org/records/24573288",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-y-es-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -3328,7 +3425,9 @@
         "citation_bibtex": "https://brenev.com/ja/books/y/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573298",
         "zenodo": "https://zenodo.org/records/24573298",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-y-ja-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -3409,7 +3508,9 @@
         "citation_bibtex": "https://brenev.com/ko/books/y/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573307",
         "zenodo": "https://zenodo.org/records/24573307",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-y-ko-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -3490,7 +3591,9 @@
         "citation_bibtex": "https://brenev.com/ru/books/r/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573315",
         "zenodo": "https://zenodo.org/records/24573315",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-r-ru-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -3571,7 +3674,9 @@
         "citation_bibtex": "https://brenev.com/en/books/r/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573321",
         "zenodo": "https://zenodo.org/records/24573321",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-r-en-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -3652,7 +3757,9 @@
         "citation_bibtex": "https://brenev.com/es/books/r/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573323",
         "zenodo": "https://zenodo.org/records/24573323",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-r-es-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -3733,7 +3840,9 @@
         "citation_bibtex": "https://brenev.com/ja/books/r/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573336",
         "zenodo": "https://zenodo.org/records/24573336",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-r-ja-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -3814,7 +3923,9 @@
         "citation_bibtex": "https://brenev.com/ko/books/r/citation.bib",
         "doi": "https://doi.org/10.5281/zenodo.24573343",
         "zenodo": "https://zenodo.org/records/24573343",
-        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books"
+        "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
+        "github_pdf": "https://github.com/eudgenebrenev/brenev-books/releases/download/books-2026-11-26.1/brenev-r-ko-2026-11-26-1.pdf",
+        "github_book_release": "https://github.com/eudgenebrenev/brenev-books/releases/tag/books-2026-11-26.1"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
