@@ -1,5 +1,5 @@
 {
-  "catalogue_built_utc": "2026-11-27T00:22:42.521593+00:00",
+  "catalogue_built_utc": "2026-11-27T00:51:31.868145+00:00",
   "book_release": "2026-11-26.1",
   "source_editions": 45,
   "published_zenodo_dois": 45,
@@ -11,6 +11,11 @@
     "p-en",
     "p-ru",
     "s-en"
+  ],
+  "datacite_findable_editions_verified": 45,
+  "software_heritage_archived_sources": 3,
+  "academia_book_pages_observed": [
+    "p-en"
   ],
   "private_fields_excluded": true
 }

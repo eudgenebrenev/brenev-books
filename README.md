@@ -36,6 +36,14 @@ Each cell links to the full book and its exact language-edition DOI.
 - [The Limit of Superposition](https://github.com/eudgenebrenev/brenev-superposition-calculations) — [release 2026-11-26.1](https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1), MIT.
 - [Space from Within](https://github.com/eudgenebrenev/brenev-space-practicum) — [release 2026-11-26.1](https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1), MIT.
 
+## Long-term source archives
+
+The exact tested source revisions are archived in Software Heritage. A SWHID identifies code; the edition DOI above identifies a book.
+
+- [Qualia of the World and the Nature of Consciousness](https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc) — `swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab`.
+- [The Limit of Superposition](https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef) — `swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6`.
+- [Space from Within](https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326) — `swh:1:rev:141a71c757f505e0419546327432e4b1f8389326`.
+
 ## Authorship and provenance
 
 According to the author, ideas were developed by Eudgene Brenev and MIRA. The author identifies ChatGPT Sol 6.1 as used for illustrations and translation. Mira Veyran is an AI coauthor / AI persona. See the disclosure for the limits of the available provenance information.

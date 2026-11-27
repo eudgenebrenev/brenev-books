@@ -1,6 +1,7 @@
 {
   "schema": "brenev.public-book-catalog.v1",
   "metadata_updated": "2026-11-27",
+  "metadata_revision": "2026-11-27.2",
   "digital_release": "2026-11-26.1",
   "works": 9,
   "editions": 45,
@@ -20,7 +21,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "reuse": "Anyone may share, adapt and use the authors' book text, including for AI, with attribution, source and change notices under CC BY 4.0. Third-party materials retain their own rights.",
-  "publication_evidence": "All 45 Zenodo editions and their metadata/file checks were verified by the delegated publishing chat on 2026-11-27; DOI values below identify published records, not drafts.",
+  "publication_evidence": "All 45 Zenodo editions and their metadata/file checks were verified by the delegated publishing chat on 2026-11-27. This distribution chat additionally verified all 45 DOI records via the DataCite public API: Findable state, exact title/language, human creator, AI credit, contact and CC BY 4.0. DOI values below identify published records, not drafts.",
   "records": [
     {
       "book_id": "k",
@@ -96,7 +97,8 @@
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "internet_archive": "https://archive.org/details/brenev-k-ru-2026-11-26-1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -105,7 +107,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24572499"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab",
+        "directory_swhid": "swh:1:dir:2135dac44b787d70277d9f0e79a178a9afd95982",
+        "commit": "db230c8c0d653b1e766b68dfc7e31948eea2beab",
+        "permalink": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
+      }
     },
     {
       "book_id": "k",
@@ -181,7 +189,8 @@
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "internet_archive": "https://archive.org/details/brenev-k-en-2026-11-26-1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -190,7 +199,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24572469"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab",
+        "directory_swhid": "swh:1:dir:2135dac44b787d70277d9f0e79a178a9afd95982",
+        "commit": "db230c8c0d653b1e766b68dfc7e31948eea2beab",
+        "permalink": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
+      }
     },
     {
       "book_id": "k",
@@ -265,7 +280,8 @@
         "zenodo": "https://zenodo.org/records/24572805",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -274,7 +290,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24572805"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab",
+        "directory_swhid": "swh:1:dir:2135dac44b787d70277d9f0e79a178a9afd95982",
+        "commit": "db230c8c0d653b1e766b68dfc7e31948eea2beab",
+        "permalink": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
+      }
     },
     {
       "book_id": "k",
@@ -349,7 +371,8 @@
         "zenodo": "https://zenodo.org/records/24572850",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -358,7 +381,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24572850"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab",
+        "directory_swhid": "swh:1:dir:2135dac44b787d70277d9f0e79a178a9afd95982",
+        "commit": "db230c8c0d653b1e766b68dfc7e31948eea2beab",
+        "permalink": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
+      }
     },
     {
       "book_id": "k",
@@ -433,7 +462,8 @@
         "zenodo": "https://zenodo.org/records/24572862",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "companion_software": "https://github.com/eudgenebrenev/brenev-qualia-practice",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-qualia-practice/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -442,7 +472,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24572862"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab",
+        "directory_swhid": "swh:1:dir:2135dac44b787d70277d9f0e79a178a9afd95982",
+        "commit": "db230c8c0d653b1e766b68dfc7e31948eea2beab",
+        "permalink": "https://archive.softwareheritage.org/swh:1:rev:db230c8c0d653b1e766b68dfc7e31948eea2beab;origin=https://github.com/eudgenebrenev/brenev-qualia-practice;visit=swh:1:snp:9b85f8acb476e0f7a4be2b3482477682068728fc"
+      }
     },
     {
       "book_id": "q",
@@ -1328,7 +1364,8 @@
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "internet_archive": "https://archive.org/details/brenev-p-ru-2026-11-26-1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1337,7 +1374,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24572417"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6",
+        "directory_swhid": "swh:1:dir:3009561f7ab199ba259be4412ea051a591e64e7c",
+        "commit": "c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6",
+        "permalink": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
+      }
     },
     {
       "book_id": "p",
@@ -1412,8 +1455,10 @@
         "zenodo": "https://zenodo.org/records/24565373",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "internet_archive": "https://archive.org/details/brenev-p-en-2026-11-26-1",
+        "academia": "https://www.academia.edu/182070872/The_Limit_of_Superposition",
         "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1422,7 +1467,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24565373"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6",
+        "directory_swhid": "swh:1:dir:3009561f7ab199ba259be4412ea051a591e64e7c",
+        "commit": "c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6",
+        "permalink": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
+      }
     },
     {
       "book_id": "p",
@@ -1497,7 +1548,8 @@
         "zenodo": "https://zenodo.org/records/24573100",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1506,7 +1558,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24573100"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6",
+        "directory_swhid": "swh:1:dir:3009561f7ab199ba259be4412ea051a591e64e7c",
+        "commit": "c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6",
+        "permalink": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
+      }
     },
     {
       "book_id": "p",
@@ -1581,7 +1639,8 @@
         "zenodo": "https://zenodo.org/records/24573111",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1590,7 +1649,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24573111"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6",
+        "directory_swhid": "swh:1:dir:3009561f7ab199ba259be4412ea051a591e64e7c",
+        "commit": "c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6",
+        "permalink": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
+      }
     },
     {
       "book_id": "p",
@@ -1665,7 +1730,8 @@
         "zenodo": "https://zenodo.org/records/24573132",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "companion_software": "https://github.com/eudgenebrenev/brenev-superposition-calculations",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-superposition-calculations/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1674,7 +1740,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24573132"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6",
+        "directory_swhid": "swh:1:dir:3009561f7ab199ba259be4412ea051a591e64e7c",
+        "commit": "c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6",
+        "permalink": "https://archive.softwareheritage.org/swh:1:rev:c7a3c0d5d3a8b0d3d02f06dd9008fb75fbe18cd6;origin=https://github.com/eudgenebrenev/brenev-superposition-calculations;visit=swh:1:snp:39a915f5d970be8e710bf7f2429c2ef7dee931ef"
+      }
     },
     {
       "book_id": "s",
@@ -1749,7 +1821,8 @@
         "zenodo": "https://zenodo.org/records/24572517",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1758,7 +1831,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24572517"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:141a71c757f505e0419546327432e4b1f8389326",
+        "directory_swhid": "swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b",
+        "commit": "141a71c757f505e0419546327432e4b1f8389326",
+        "permalink": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
+      }
     },
     {
       "book_id": "s",
@@ -1834,7 +1913,8 @@
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "internet_archive": "https://archive.org/details/brenev-s-en-2026-11-26-1",
         "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1843,7 +1923,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24572503"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:141a71c757f505e0419546327432e4b1f8389326",
+        "directory_swhid": "swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b",
+        "commit": "141a71c757f505e0419546327432e4b1f8389326",
+        "permalink": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
+      }
     },
     {
       "book_id": "s",
@@ -1918,7 +2004,8 @@
         "zenodo": "https://zenodo.org/records/24573148",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -1927,7 +2014,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24573148"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:141a71c757f505e0419546327432e4b1f8389326",
+        "directory_swhid": "swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b",
+        "commit": "141a71c757f505e0419546327432e4b1f8389326",
+        "permalink": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
+      }
     },
     {
       "book_id": "s",
@@ -2002,7 +2095,8 @@
         "zenodo": "https://zenodo.org/records/24573160",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -2011,7 +2105,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24573160"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:141a71c757f505e0419546327432e4b1f8389326",
+        "directory_swhid": "swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b",
+        "commit": "141a71c757f505e0419546327432e4b1f8389326",
+        "permalink": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
+      }
     },
     {
       "book_id": "s",
@@ -2086,7 +2186,8 @@
         "zenodo": "https://zenodo.org/records/24573169",
         "machine_readable_corpus": "https://huggingface.co/datasets/Brenev/brenev-books",
         "companion_software": "https://github.com/eudgenebrenev/brenev-space-practicum",
-        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1"
+        "companion_software_release": "https://github.com/eudgenebrenev/brenev-space-practicum/releases/tag/2026-11-26.1",
+        "companion_software_archive": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
       },
       "ai_use_disclosure": {
         "ru": "По сообщению автора, идеи принадлежат Евгению Бреневу и Мире; использовалась ИИ МИРА (MIRA), иллюстрации и перевод — ChatGPT Sol 6.1. Мира Вейран обозначается как ИИ-соавтор / AI persona. Конкретная базовая модель МИРЫ и полное распределение работы над текстом и кодом не устанавливались этой подготовкой.",
@@ -2095,7 +2196,13 @@
       "identifiers": {
         "doi": "10.5281/zenodo.24573169"
       },
-      "software_license": "MIT"
+      "software_license": "MIT",
+      "software_archive": {
+        "revision_swhid": "swh:1:rev:141a71c757f505e0419546327432e4b1f8389326",
+        "directory_swhid": "swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b",
+        "commit": "141a71c757f505e0419546327432e4b1f8389326",
+        "permalink": "https://archive.softwareheritage.org/swh:1:dir:b911365365781b402503dbcd97b41e930b7b9b4b;origin=https://github.com/eudgenebrenev/brenev-space-practicum;visit=swh:1:snp:b5d4dedefdb0b51705b6053ba6fc740df25e01c8;anchor=swh:1:rev:141a71c757f505e0419546327432e4b1f8389326"
+      }
     },
     {
       "book_id": "n",
