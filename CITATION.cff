@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+type: dataset
+title: 'Brenev open books: an attributed corpus of 45 editions in five languages'
+message: 'For a specific book, cite its exact language-edition DOI from catalog.json or CITATIONS.bib.
+  For the corpus collection, cite these metadata. Preserve the human author, explicit AI coauthor role
+  and source links. Contact: info@brenev.com.'
+authors:
+- given-names: Eudgene
+  family-names: Brenev
+  email: info@brenev.com
+  website: https://brenev.com/
+- name: Mira Veyran (MIRA; AI coauthor / AI persona)
+  website: https://brenev.com/mira.html
+contact:
+- given-names: Eudgene
+  family-names: Brenev
+  email: info@brenev.com
+  website: https://brenev.com/contacts.html
+url: https://github.com/eudgenebrenev/brenev-books
+repository: https://huggingface.co/datasets/Brenev/brenev-books
+version: 2026-11-26.1
+license: CC-BY-4.0
+license-url: https://creativecommons.org/licenses/by/4.0/
+abstract: Nine independently published books in Russian, English, Spanish, Japanese and Korean. The corpus
+  preserves 45 published source-edition DOIs, attribution, AI-role disclosure and author contact for reading,
+  retrieval, research and AI reuse with attribution. Book text is CC BY 4.0; helper and companion code
+  has its separately stated MIT licence. Third-party materials retain their rights. This record identifies
+  the corpus collection and does not assert a new collection DOI or scientific peer review.
+keywords:
+- open books
+- multilingual corpus
+- consciousness
+- quantum foundations
+- cosmology
+- inverse problems
+- research methods

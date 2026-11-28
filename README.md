@@ -15,7 +15,7 @@ Nine books, five completed languages, **45 open editions with published DOI reco
 - [Additional text-download folder](https://drive.google.com/drive/folders/1YQGTFeSXYQSbv8GyK00jiEUOobFOfcH-)
 - [Complete metadata and all 45 DOI links](catalog.json) · [BibTeX for all editions](CITATIONS.bib) · [Reuse and attribution](REUSE.md) · [AI-use disclosure](AI_USE_DISCLOSURE.txt)
 
-Digital text release: **2026-11-26.1**. Catalogue updated: **2026-11-27**. Chinese editions are in preparation and are not included.
+Digital text release: **2026-11-26.1**. Catalogue updated: **2026-11-28**. Chinese editions are in preparation and are not included.
 
 ## Books and languages
 
@@ -66,4 +66,22 @@ The dependency-free [Python reader](brenev_corpus_reader.py) and notebook preser
 
 Credit **Eudgene Brenev (human author)** and **Mira Veyran (MIRA; AI coauthor / AI persona)**. Contact **info@brenev.com** · https://brenev.com/contacts.html . Book text and corpus remain **CC BY 4.0**; selected helper and companion code has its separately stated MIT licence. This mirror is available for reading, research, retrieval and AI use under those licences.
 
-Metadata catalogue revision: **2026-11-28.1**. Digital text release **2026-11-26.1** and existing edition DOIs are unchanged.
+Metadata catalogue revision: **2026-11-28.2**. Digital text release **2026-11-26.1** and existing edition DOIs are unchanged.
+
+
+## EPUB reading and scholarly discovery
+
+**[45 complete EPUB editions](https://github.com/eudgenebrenev/brenev-books/releases/tag/epub-2026-11-28.1)** are available alongside the unchanged original PDF/text release. Each EPUB has navigable contents, embedded illustrations, native MathML and an author/contact/rights page. See the release manifest for exact file sizes, SHA-256 and original edition DOI. Conversion release **2026-11-28.1** adds a reading format; digital text release **2026-11-26.1** and all source edition DOIs remain unchanged. EPUBCheck 5.4.0 reported zero fatal errors, errors and warnings for all 45 files.
+
+The same release includes **nine bilingual reading briefs** with links to all five language editions, and a separate **CC0 facts-only catalogue packet for Open Library review**. The CC0 dedication applies only to the factual metadata packet; book text and reading briefs remain CC BY 4.0. The packet does not assert acceptance by Open Library.
+
+All **45 edition DOIs have been matched to OpenAlex** by the exact DOI in source locations, with matching title and language. Per-edition OpenAlex and EPUB links appear in the catalogue. OpenAlex can merge the concept and version DOI; no new book DOI was minted. Inclusion in an index is not a claim of peer review or model training.
+
+Credit **Eudgene Brenev (human author)** and **Mira Veyran (MIRA; AI coauthor / AI persona)**. Contact **info@brenev.com** · https://brenev.com/contacts.html . `CITATION.cff` supplies machine-readable citation and contact metadata for the corpus collection; for a particular book use its exact edition DOI in the catalogue. Metadata revision: **2026-11-28.2**.
+
+
+## Read and search online
+
+[Hugging Face reader](https://huggingface.co/spaces/Brenev/brenev-books-reader) · [standalone app](https://brenev-brenev-books-reader.static.hf.space/index.html) · [additional public reader](https://brenev-open-books-reader.extraordinaryjasmine5.chatgpt.site).
+
+Search runs in the visitor's browser across 1,360 source sections in five languages. Each result includes both creator credits, explicit AI role, exact edition DOI, source link, licence and info@brenev.com. Attributed JSON exports retain all original source fields. Reader code is MIT; book text and catalogue remain CC BY 4.0. The corpus source version is unchanged.
